@@ -93,7 +93,7 @@ window.PROGRAMME = {
   },
   "sessions": [
     {
-      "id": "5514842",
+      "id": "5515568",
       "title": "Morning coffee",
       "ref": "Morning",
       "day": "2026-09-20",
@@ -109,12 +109,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514842&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515568&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514538",
+      "id": "5515264",
       "title": "Su1-A Light sources for next-generation optical communication systems for AI datacenters",
       "ref": "Su1-A",
       "day": "2026-09-20",
@@ -130,11 +130,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514538&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515264&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514538-t0@webevents",
+          "id": "ecoc2026-s5515264-t0@webevents",
           "title": "Su1-A: Scott Wilkinson (CignalAI)",
           "start": "09:00",
           "end": "09:12",
@@ -147,7 +147,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514538-t1@webevents",
+          "id": "ecoc2026-s5515264-t1@webevents",
           "title": "Su1-A: Mark Filer (Oracle)",
           "start": "09:12",
           "end": "09:24",
@@ -160,7 +160,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514538-t2@webevents",
+          "id": "ecoc2026-s5515264-t2@webevents",
           "title": "Su1-A: Zhang Shiyong (Huawei)",
           "start": "09:24",
           "end": "09:36",
@@ -173,7 +173,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514538-t3@webevents",
+          "id": "ecoc2026-s5515264-t3@webevents",
           "title": "Su1-A: Haisheng Rong (AMD)",
           "start": "09:36",
           "end": "09:48",
@@ -186,7 +186,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514538-t4@webevents",
+          "id": "ecoc2026-s5515264-t4@webevents",
           "title": "Su1-A: Keren Bergman (Columbia University)",
           "start": "09:48",
           "end": "10:00",
@@ -199,7 +199,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514538-t5@webevents",
+          "id": "ecoc2026-s5515264-t5@webevents",
           "title": "Su1-A: Roundtable Discussion",
           "start": "10:00",
           "end": "10:30",
@@ -214,7 +214,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514537",
+      "id": "5515263",
       "title": "Su1-B How can we overcome the power wall across optical communication systems – from AI clusters to submarine networks?",
       "ref": "Su1-B",
       "day": "2026-09-20",
@@ -230,11 +230,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514537&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515263&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514537-t0@webevents",
+          "id": "ecoc2026-s5515263-t0@webevents",
           "title": "Su1-B: Ai data center networking – power savings opportunities and challenges. dreu alduino (meta)",
           "start": "09:00",
           "end": "09:15",
@@ -247,7 +247,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514537-t1@webevents",
+          "id": "ecoc2026-s5515263-t1@webevents",
           "title": "Su1-B: Power efficient scale up in ai, does copper still do the job?. sara zebian (openai)",
           "start": "09:15",
           "end": "09:30",
@@ -260,7 +260,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514537-t2@webevents",
+          "id": "ecoc2026-s5515263-t2@webevents",
           "title": "Su1-B: How can Slow & Wide Interconnects bring key benefits for scale-up networks?. Ashkan Seyedi (ams OSRAM)",
           "start": "09:30",
           "end": "09:45",
@@ -273,7 +273,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514537-t3@webevents",
+          "id": "ecoc2026-s5515263-t3@webevents",
           "title": "Su1-B: High-speed I/O in AI clusters. Karl Muth (Broadcom)",
           "start": "09:45",
           "end": "10:00",
@@ -286,7 +286,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514537-t4@webevents",
+          "id": "ecoc2026-s5515263-t4@webevents",
           "title": "Su1-B: Pluggables forever: power efficient ultra-dense XPO. Sunil Priyadarshi (Arista)",
           "start": "10:00",
           "end": "10:15",
@@ -299,7 +299,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514537-t5@webevents",
+          "id": "ecoc2026-s5515263-t5@webevents",
           "title": "Su1-B: ASICs over Dielectrics for Scale-Up - Is it optical or electrical?. David Welch (AttoTude)",
           "start": "10:15",
           "end": "10:30",
@@ -314,7 +314,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514536",
+      "id": "5515262",
       "title": "Su1-D Optical in-building networks - more than higher speed: quality of experience, centralized coordination and decentralized AI",
       "ref": "Su1-D",
       "day": "2026-09-20",
@@ -330,11 +330,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514536&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515262&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514536-t0@webevents",
+          "id": "ecoc2026-s5515262-t0@webevents",
           "title": "Su1-D: Opening words",
           "start": "09:00",
           "end": "09:05",
@@ -347,7 +347,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514536-t1@webevents",
+          "id": "ecoc2026-s5515262-t1@webevents",
           "title": "Su1-D: Can optics fix the indoor challenge?. andreas gladisch (deutsche telekom)",
           "start": "09:05",
           "end": "09:25",
@@ -360,7 +360,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514536-t2@webevents",
+          "id": "ecoc2026-s5515262-t2@webevents",
           "title": "Su1-D: Considerations on Deployment and Technology Development of FTTR. Li Junwei (China Mobile)",
           "start": "09:25",
           "end": "09:45",
@@ -373,7 +373,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514536-t3@webevents",
+          "id": "ecoc2026-s5515262-t3@webevents",
           "title": "Su1-D: ITU-T Q3/15 technologies for FTTR. Marcos Martinez (Maxlinear)",
           "start": "09:45",
           "end": "10:05",
@@ -386,7 +386,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514536-t4@webevents",
+          "id": "ecoc2026-s5515262-t4@webevents",
           "title": "Su1-D: Optimized Optical In-building Networks for future IoT, AI and Wireless Needs. Ronald Heron (NOKIA)",
           "start": "10:05",
           "end": "10:25",
@@ -399,7 +399,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514536-t5@webevents",
+          "id": "ecoc2026-s5515262-t5@webevents",
           "title": "Su1-D: Panel discussion with first four speakers — focus: fixed",
           "start": "10:25",
           "end": "10:40",
@@ -414,7 +414,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514534",
+      "id": "5515260",
       "title": "Su1-F Atmospheric turbulence mitigation for high-rate, coherent ground-to-space optical links: final hurdles to commercialization",
       "ref": "Su1-F",
       "day": "2026-09-20",
@@ -430,11 +430,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514534&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515260&a=ecoc2026",
       "talkCount": 7,
       "talks": [
         {
-          "id": "ecoc2026-s5514534-t0@webevents",
+          "id": "ecoc2026-s5515260-t0@webevents",
           "title": "Su1-F: Diversity-based fade mitigation for coherent ground-space optical links. Jonst, Abraham (Fraunhofer HHI)",
           "start": "09:00",
           "end": "09:13",
@@ -447,7 +447,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514534-t1@webevents",
+          "id": "ecoc2026-s5515260-t1@webevents",
           "title": "Su1-F: Atmospheric turbulence mitigation for high-rate, ultra-low-latency coherent ground-to-space optical links: final hurdles to commercialization.reeves, andrew (durham univ )",
           "start": "09:13",
           "end": "09:26",
@@ -460,7 +460,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514534-t2@webevents",
+          "id": "ecoc2026-s5515260-t2@webevents",
           "title": "Su1-F: Impact and mitigation of atmospheric turbulence in satellite-ground laser links. Professor Wu Jian (Beijing university of Posts and Telecommunication)",
           "start": "09:26",
           "end": "09:39",
@@ -473,7 +473,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514534-t3@webevents",
+          "id": "ecoc2026-s5515260-t3@webevents",
           "title": "Su1-F: Adaptive coherent dsp and turbulence mitigation techniques for robust high-capacity ground-to-space optical links. guiomar, fernando (aveiro)",
           "start": "09:39",
           "end": "09:52",
@@ -486,7 +486,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514534-t4@webevents",
+          "id": "ecoc2026-s5515260-t4@webevents",
           "title": "Su1-F: From primary mirror to fiber core – the optical antenna and its relay architecture. goy, matthias (fraunhofer-iof)",
           "start": "09:52",
           "end": "10:05",
@@ -499,7 +499,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514534-t5@webevents",
+          "id": "ecoc2026-s5515260-t5@webevents",
           "title": "Su1-F: Building the Next Generation of Adaptive Optics Systems: a Robust and Scalable Solution for High-Throughput Free-Space Optical Communication. Laidlaw, Douglas (DLR-KN)",
           "start": "10:05",
           "end": "10:18",
@@ -512,7 +512,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514534-t6@webevents",
+          "id": "ecoc2026-s5515260-t6@webevents",
           "title": "Su1-F: Panel discussion",
           "start": "10:18",
           "end": "10:38",
@@ -527,7 +527,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514539",
+      "id": "5515265",
       "title": "Su1-G Quantum repeaters - recent progress and open challenges",
       "ref": "Su1-G",
       "day": "2026-09-20",
@@ -543,11 +543,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514539&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515265&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
-          "id": "ecoc2026-s5514539-t0@webevents",
+          "id": "ecoc2026-s5515265-t0@webevents",
           "title": "Su1-G: Welcome and introduction. adam kinos (lund technical university, se)",
           "start": "09:00",
           "end": "09:15",
@@ -560,7 +560,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514539-t1@webevents",
+          "id": "ecoc2026-s5515265-t1@webevents",
           "title": "Su1-G: Towards quantum repeaters based on trapped ions integrated into optical cavities. Ben Lanyon (University of Innsbruck, AT)",
           "start": "09:15",
           "end": "09:40",
@@ -573,7 +573,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514539-t2@webevents",
+          "id": "ecoc2026-s5515265-t2@webevents",
           "title": "Su1-G: Quantum networks using rare-earth ion-based solid-state qubits. Sophie Hermans (Delft Technical University, NL)",
           "start": "09:40",
           "end": "10:05",
@@ -586,7 +586,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514539-t3@webevents",
+          "id": "ecoc2026-s5515265-t3@webevents",
           "title": "Su1-G: Implementation and applications of telecom quantum networks based on heralded quantum memories in diamond. mihir bhaskar (ionq, us)",
           "start": "10:05",
           "end": "10:30",
@@ -601,7 +601,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514533",
+      "id": "5515259",
       "title": "Su1-C From idea to product: how to speed up innovation in integrated photonics?",
       "ref": "Su1-C",
       "day": "2026-09-20",
@@ -617,11 +617,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514533&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515259&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514533-t0@webevents",
+          "id": "ecoc2026-s5515259-t0@webevents",
           "title": "Su1-C: The challenge: how to translate a photonic chip idea into a product... fast. Antonio Teixeira (PICadvanced)",
           "start": "09:00",
           "end": "09:20",
@@ -634,7 +634,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514533-t1@webevents",
+          "id": "ecoc2026-s5515259-t1@webevents",
           "title": "Su1-C: The European Chip Design Platform, and the role of MPW in the photonic innovation cycle. Romano Hoofman (Imec – IC.link)",
           "start": "09:20",
           "end": "09:35",
@@ -647,7 +647,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514533-t2@webevents",
+          "id": "ecoc2026-s5515259-t2@webevents",
           "title": "Su1-C: ST Microelectronics silicon photonics platform.Corrado Sciancalepore (ST Microelectronics)",
           "start": "09:35",
           "end": "09:50",
@@ -660,7 +660,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514533-t3@webevents",
+          "id": "ecoc2026-s5515259-t3@webevents",
           "title": "Su1-C: Rapid foundry-based photonic chip prototyping. Ramsey Selim (Cornerstone)",
           "start": "09:50",
           "end": "10:05",
@@ -673,7 +673,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514533-t4@webevents",
+          "id": "ecoc2026-s5515259-t4@webevents",
           "title": "Su1-C: The role of packaging in photonic product development. William Henry (Tyndall)",
           "start": "10:05",
           "end": "10:20",
@@ -686,7 +686,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514533-t5@webevents",
+          "id": "ecoc2026-s5515259-t5@webevents",
           "title": "Su1-C: Poll: what are the main (perceived) obstacles to rapid photonic innovation. Oded Raz (TU/eindhoven)",
           "start": "10:20",
           "end": "10:30",
@@ -701,7 +701,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514540",
+      "id": "5515266",
       "title": "Su1-H Can Global and Federated Optical Testbeds Facilitate AI-Native Networks and Telecom Data Spaces?",
       "ref": "Su1-H",
       "day": "2026-09-20",
@@ -717,11 +717,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514540&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515266&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514540-t0@webevents",
+          "id": "ecoc2026-s5515266-t0@webevents",
           "title": "Su1-H: Riccarco Nicolicchia, Telefonica Spain - TC DATA - The Train to Open Data Infrastructures",
           "start": "09:00",
           "end": "09:12",
@@ -734,7 +734,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514540-t1@webevents",
+          "id": "ecoc2026-s5515266-t1@webevents",
           "title": "Su1-H: Andreas Gladisch, Deutsche Telekom - TBD",
           "start": "09:13",
           "end": "09:24",
@@ -747,7 +747,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514540-t2@webevents",
+          "id": "ecoc2026-s5515266-t2@webevents",
           "title": "Su1-H: Yvan Pointourier, Huawei - Use Cases for AI-native Optical Networks Design and Management",
           "start": "09:25",
           "end": "09:36",
@@ -760,7 +760,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514540-t3@webevents",
+          "id": "ecoc2026-s5515266-t3@webevents",
           "title": "Su1-H: TBD - TBD",
           "start": "09:37",
           "end": "09:48",
@@ -773,7 +773,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514540-t4@webevents",
+          "id": "ecoc2026-s5515266-t4@webevents",
           "title": "Su1-H: Panel discussion",
           "start": "10:00",
           "end": "10:30",
@@ -788,7 +788,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514535",
+      "id": "5515261",
       "title": "Su1-I Scaling sustainable AI data centers and green access networks: how can optical innovations contribute to energy and resource efficient connectivity?",
       "ref": "Su1-I",
       "day": "2026-09-20",
@@ -804,11 +804,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514535&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515261&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514535-t0@webevents",
+          "id": "ecoc2026-s5515261-t0@webevents",
           "title": "Su1-I: Workshop Opening",
           "start": "09:00",
           "end": "09:15",
@@ -821,7 +821,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514535-t1@webevents",
+          "id": "ecoc2026-s5515261-t1@webevents",
           "title": "Su1-I: Operator perspective on network infrastructure and roadmap towards scalability and sustainability. J. Pedro Fernandez (Telefónica),",
           "start": "09:15",
           "end": "09:30",
@@ -834,7 +834,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514535-t2@webevents",
+          "id": "ecoc2026-s5515261-t2@webevents",
           "title": "Su1-I: Optical access networks & energy-saving. F. Saliou (Orange Research)",
           "start": "09:30",
           "end": "09:45",
@@ -847,7 +847,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514535-t3@webevents",
+          "id": "ecoc2026-s5515261-t3@webevents",
           "title": "Su1-I: Next generation PON architectures and systems for sustainable connected intelligence. R. Bonk (Nokia)",
           "start": "09:45",
           "end": "10:00",
@@ -860,7 +860,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514535-t4@webevents",
+          "id": "ecoc2026-s5515261-t4@webevents",
           "title": "Su1-I: The Need for environmental sustainability assessment of ICT technologies and services. L. Katsuo Oxenløwe (DTU)",
           "start": "10:00",
           "end": "10:15",
@@ -873,7 +873,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514535-t5@webevents",
+          "id": "ecoc2026-s5515261-t5@webevents",
           "title": "Su1-I: Photonic integrated switching solutions for energy-efficient high-capacity interconnects networks. N. Calabretta (TU/e)",
           "start": "10:15",
           "end": "10:30",
@@ -888,7 +888,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514633",
+      "id": "5515359",
       "title": "Coffee break",
       "ref": "Coffee",
       "day": "2026-09-20",
@@ -904,12 +904,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514633&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515359&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514650",
+      "id": "5515376",
       "title": "Su2-A Light sources for next-generation optical communication systems for AI datacenters",
       "ref": "Su2-A",
       "day": "2026-09-20",
@@ -925,11 +925,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514650&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515376&a=ecoc2026",
       "talkCount": 7,
       "talks": [
         {
-          "id": "ecoc2026-s5514650-t0@webevents",
+          "id": "ecoc2026-s5515376-t0@webevents",
           "title": "Su2-A: Lukas Chrostowski (University of British Columbia)",
           "start": "11:00",
           "end": "11:10",
@@ -942,7 +942,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514650-t1@webevents",
+          "id": "ecoc2026-s5515376-t1@webevents",
           "title": "Su2-A: Alan Liu (Quintessen)",
           "start": "11:10",
           "end": "11:20",
@@ -955,7 +955,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514650-t2@webevents",
+          "id": "ecoc2026-s5515376-t2@webevents",
           "title": "Su2-A: Rui Santos (Photon Bridge)",
           "start": "11:20",
           "end": "11:30",
@@ -968,7 +968,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514650-t3@webevents",
+          "id": "ecoc2026-s5515376-t3@webevents",
           "title": "Su2-A: Yoshiho Maeda (NTT)",
           "start": "11:30",
           "end": "11:40",
@@ -981,7 +981,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514650-t4@webevents",
+          "id": "ecoc2026-s5515376-t4@webevents",
           "title": "Su2-A: Victor Torres Company (Chalmers University of Technology)",
           "start": "11:40",
           "end": "11:50",
@@ -994,7 +994,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514650-t5@webevents",
+          "id": "ecoc2026-s5515376-t5@webevents",
           "title": "Su2-A: Claire Besancon (III-V Lab)",
           "start": "11:50",
           "end": "12:00",
@@ -1007,7 +1007,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514650-t6@webevents",
+          "id": "ecoc2026-s5515376-t6@webevents",
           "title": "Su2-A: Roundtable discussion",
           "start": "12:00",
           "end": "12:30",
@@ -1022,7 +1022,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514649",
+      "id": "5515375",
       "title": "Su2-B How can we overcome the power wall across optical communication systems – from AI clusters to submarine networks?",
       "ref": "Su2-B",
       "day": "2026-09-20",
@@ -1038,11 +1038,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514649&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515375&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514649-t0@webevents",
+          "id": "ecoc2026-s5515375-t0@webevents",
           "title": "Su2-B: Power efficient scale-across. Matt Newlan (Google US)",
           "start": "11:00",
           "end": "11:15",
@@ -1055,7 +1055,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514649-t1@webevents",
+          "id": "ecoc2026-s5515375-t1@webevents",
           "title": "Su2-B: Breaking the Power Wall with Multi-Rail Photonics and Optical Interconnect Innovation. Bilal Riaz (Ciena)",
           "start": "11:15",
           "end": "11:30",
@@ -1068,7 +1068,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514649-t2@webevents",
+          "id": "ecoc2026-s5515375-t2@webevents",
           "title": "Su2-B: Pushing Optical Network Efficiency to the Limit for the AI Era: From QoT Margins to Goodput-Aware Operation. Kiyo Ishii (AIST)",
           "start": "11:30",
           "end": "11:45",
@@ -1081,7 +1081,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514649-t3@webevents",
+          "id": "ecoc2026-s5515375-t3@webevents",
           "title": "Su2-B: Power efficient submarine pluggable transceivers. John van Weerdenburg (Nokia)",
           "start": "11:45",
           "end": "12:00",
@@ -1094,7 +1094,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514649-t4@webevents",
+          "id": "ecoc2026-s5515375-t4@webevents",
           "title": "Su2-B: Power efficient multi-petabit/s submarine cables. Fatih Yaman (NEC America)",
           "start": "12:00",
           "end": "12:15",
@@ -1107,7 +1107,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514649-t5@webevents",
+          "id": "ecoc2026-s5515375-t5@webevents",
           "title": "Su2-B: Can hollow core fibers improve the power efficiency in submarine systems?. Alexi Carbo (Alcatel Subnarine Networks)",
           "start": "12:15",
           "end": "12:30",
@@ -1122,7 +1122,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514648",
+      "id": "5515374",
       "title": "Su2-D Optical in-building networks - more than higher speed: quality of experience, centralized coordination and decentralized AI",
       "ref": "Su2-D",
       "day": "2026-09-20",
@@ -1138,11 +1138,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514648&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515374&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514648-t0@webevents",
+          "id": "ecoc2026-s5515374-t0@webevents",
           "title": "Su2-D: AI-Native modems for Wi-Fi 9. Jim Lansford (DeepSig)",
           "start": "11:00",
           "end": "11:20",
@@ -1155,7 +1155,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514648-t1@webevents",
+          "id": "ecoc2026-s5515374-t1@webevents",
           "title": "Su2-D: Intelligent FTTR and mmWave integration for premium quality smart homes application. Eric Wang Xiang (Huawei)",
           "start": "11:20",
           "end": "11:40",
@@ -1168,7 +1168,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514648-t2@webevents",
+          "id": "ecoc2026-s5515374-t2@webevents",
           "title": "Su2-D: Functional Split to Improve Throughput and Latency of Wi-Fi in Fiber-to-the-Room Networks. Anselm (Fraunhofer HHI)",
           "start": "11:40",
           "end": "12:00",
@@ -1181,7 +1181,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514648-t3@webevents",
+          "id": "ecoc2026-s5515374-t3@webevents",
           "title": "Su2-D: Toward Multi-AP Joint Scheduling in Next-Generation Wi-Fi. Boris Bellalta (UPF)",
           "start": "12:00",
           "end": "12:20",
@@ -1194,7 +1194,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514648-t4@webevents",
+          "id": "ecoc2026-s5515374-t4@webevents",
           "title": "Su2-D: Panel discussion with second four speakers — Focus: Wi-Fi",
           "start": "12:20",
           "end": "12:30",
@@ -1209,7 +1209,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514646",
+      "id": "5515372",
       "title": "Su2-F Atmospheric turbulence mitigation for high-rate, coherent ground-to-space optical links: final hurdles to commercialization",
       "ref": "Su2-F",
       "day": "2026-09-20",
@@ -1225,11 +1225,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514646&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515372&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514646-t0@webevents",
+          "id": "ecoc2026-s5515372-t0@webevents",
           "title": "Su2-F: Space Laser Communications Through the Atmosphere: NICT's Experience in Japan. Carrasco-Casado, Alberto (NICT)",
           "start": "11:00",
           "end": "11:13",
@@ -1242,7 +1242,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514646-t1@webevents",
+          "id": "ecoc2026-s5515372-t1@webevents",
           "title": "Su2-F: Australian National University laser communication program: an overview of laser propagation and correction through atmospheric turbulence. Bennet, Francis (ANU)",
           "start": "11:13",
           "end": "11:26",
@@ -1255,7 +1255,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514646-t2@webevents",
+          "id": "ecoc2026-s5515372-t2@webevents",
           "title": "Su2-F: Performance of link-layer and physical-layer atmospheric mitigation approaches for free-space optical communications. Robinson, Bryan. (MIT LL)",
           "start": "11:26",
           "end": "11:39",
@@ -1268,7 +1268,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514646-t3@webevents",
+          "id": "ecoc2026-s5515372-t3@webevents",
           "title": "Su2-F: Towards Robust High Capacity LEO Coherent Optical Links: Recent Results of LEO DTL Links with Adaptive Optics and Atmospheric Channel Characterization. Lanz, Thierry (OGS Technologies)",
           "start": "11:39",
           "end": "11:52",
@@ -1281,7 +1281,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514646-t4@webevents",
+          "id": "ecoc2026-s5515372-t4@webevents",
           "title": "Su2-F: Towards Robust High Capacity LEO Coherent Optical Links: combining Adaptive Optics, Transmit diversity and Digital Signal Processing. Thomas, Alain. (SAFRAN)",
           "start": "11:52",
           "end": "12:05",
@@ -1296,7 +1296,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514651",
+      "id": "5515377",
       "title": "Su2-G Quantum repeaters - recent progress and open challenges",
       "ref": "Su2-G",
       "day": "2026-09-20",
@@ -1312,11 +1312,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514651&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515377&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
-          "id": "ecoc2026-s5514651-t0@webevents",
+          "id": "ecoc2026-s5515377-t0@webevents",
           "title": "Su2-G: TBA. Julien Laurat (Sorbonne University, FR)",
           "start": "11:00",
           "end": "11:25",
@@ -1329,7 +1329,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514651-t1@webevents",
+          "id": "ecoc2026-s5515377-t1@webevents",
           "title": "Su2-G: Bell tests and quantum communication based on a metropolitan-scale multiplexed quantum repeater (XingHan 2.0). Zong-Quan Zhou (University of Science and Technology of China, CN)",
           "start": "11:25",
           "end": "11:50",
@@ -1342,7 +1342,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514651-t2@webevents",
+          "id": "ecoc2026-s5515377-t2@webevents",
           "title": "Su2-G: Panel discussion. Led by Wolfgang Tittel (University of Geneva, CH)",
           "start": "11:50",
           "end": "12:30",
@@ -1357,7 +1357,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514645",
+      "id": "5515371",
       "title": "Su2-C From idea to product: how to speed up innovation in integrated photonics?",
       "ref": "Su2-C",
       "day": "2026-09-20",
@@ -1373,11 +1373,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514645&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515371&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514645-t0@webevents",
+          "id": "ecoc2026-s5515371-t0@webevents",
           "title": "Su2-C: Bringing photonic and electronic design together. Xu Wang (Cadence)",
           "start": "11:00",
           "end": "11:15",
@@ -1390,7 +1390,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514645-t1@webevents",
+          "id": "ecoc2026-s5515371-t1@webevents",
           "title": "Su2-C: Photonic circuit design for manufacturing and yield. Pierre Wahl (Luceda Photonics)",
           "start": "11:15",
           "end": "11:30",
@@ -1403,7 +1403,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514645-t2@webevents",
+          "id": "ecoc2026-s5515371-t2@webevents",
           "title": "Su2-C: Programmable Photonics for photonic system prototyping. Wim Bogaerts (Ghent University - imec)",
           "start": "11:30",
           "end": "11:45",
@@ -1416,7 +1416,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514645-t3@webevents",
+          "id": "ecoc2026-s5515371-t3@webevents",
           "title": "Su2-C: Brightboards – a path to rapid prototyping. katarzyna lawniczhuk (Bright Photonics)",
           "start": "11:45",
           "end": "12:00",
@@ -1429,7 +1429,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514645-t4@webevents",
+          "id": "ecoc2026-s5515371-t4@webevents",
           "title": "Su2-C: Panel Session (moderated by Wim Bogaerts)",
           "start": "12:00",
           "end": "12:30",
@@ -1444,7 +1444,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514652",
+      "id": "5515378",
       "title": "Su2-H Can global and federated optical testbeds power AI-native networks and telecom data spaces?",
       "ref": "Su2-H",
       "day": "2026-09-20",
@@ -1460,11 +1460,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514652&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515378&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514652-t0@webevents",
+          "id": "ecoc2026-s5515378-t0@webevents",
           "title": "Su2-H: Camille Delezoide, NOKIA Bell Labs - Open Datasets, Data Sharing, and their Impact for Optical Networking Research",
           "start": "11:00",
           "end": "11:12",
@@ -1477,7 +1477,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514652-t1@webevents",
+          "id": "ecoc2026-s5515378-t1@webevents",
           "title": "Su2-H: Agastya Raj,Trinity College Dublin - Bridging Testbed Telemetry and Digital Twins: Lessons from Large-Scale Optical Network Experimentation",
           "start": "11:13",
           "end": "11:24",
@@ -1490,7 +1490,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514652-t2@webevents",
+          "id": "ecoc2026-s5515378-t2@webevents",
           "title": "Su2-H: Angela Mitrovska, Fraunhofer HHI - From Data Sharing to Federated Operations: The Expanding Role of Telco Data Spaces",
           "start": "11:25",
           "end": "11:36",
@@ -1503,7 +1503,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514652-t3@webevents",
+          "id": "ecoc2026-s5515378-t3@webevents",
           "title": "Su2-H: Yuki Yoshida, NICT - Powering AI via Testbeds: Establishing Sustainable and Sovereign Data Pipelines",
           "start": "11:37",
           "end": "11:48",
@@ -1516,7 +1516,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514652-t4@webevents",
+          "id": "ecoc2026-s5515378-t4@webevents",
           "title": "Su2-H: Pouria Khodashenas, i2Cat - From Testbeds to Data Spaces: Enabling AI-Native Networks through ETSI OOP SDG",
           "start": "11:49",
           "end": "12:00",
@@ -1529,7 +1529,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514652-t5@webevents",
+          "id": "ecoc2026-s5515378-t5@webevents",
           "title": "Su2-H: Panel Discussion - All",
           "start": "12:00",
           "end": "12:30",
@@ -1544,7 +1544,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514647",
+      "id": "5515373",
       "title": "Su2-I Scaling sustainable AI data centers and green access networks: how can optical innovations contribute to energy and resource efficient connectivity?",
       "ref": "Su2-I",
       "day": "2026-09-20",
@@ -1560,11 +1560,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514647&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515373&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
-          "id": "ecoc2026-s5514647-t0@webevents",
+          "id": "ecoc2026-s5515373-t0@webevents",
           "title": "Su2-I: Photonics-enabled technologies for AI factories. P. Bakopoulos (NVIDIA)",
           "start": "11:00",
           "end": "11:15",
@@ -1577,7 +1577,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514647-t1@webevents",
+          "id": "ecoc2026-s5515373-t1@webevents",
           "title": "Su2-I: Photonic Switching and Computing in Future AI and Data Systems. B. Yoo (UCDavis)",
           "start": "11:15",
           "end": "11:30",
@@ -1590,7 +1590,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514647-t2@webevents",
+          "id": "ecoc2026-s5515373-t2@webevents",
           "title": "Su2-I: Scalable Photonic Integration for energy-efficient scale-up AI networking. A. Gonzalez (IPRONICS)",
           "start": "11:30",
           "end": "11:45",
@@ -1603,7 +1603,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514647-t3@webevents",
+          "id": "ecoc2026-s5515373-t3@webevents",
           "title": "Su2-I: Panel (All speakers)",
           "start": "11:45",
           "end": "12:30",
@@ -1618,7 +1618,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514639",
+      "id": "5515365",
       "title": "Lunch",
       "ref": "",
       "day": "2026-09-20",
@@ -1634,12 +1634,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514639&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515365&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514541",
+      "id": "5515267",
       "title": "Su3-A Meeting diverse AI connectivity needs: architectural choices for next-generation pluggable transceivers",
       "ref": "Su3-A",
       "day": "2026-09-20",
@@ -1655,11 +1655,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514541&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515267&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514541-t0@webevents",
+          "id": "ecoc2026-s5515267-t0@webevents",
           "title": "Su3-A: How AI Will Shape the Connectivity Hardware Market in the Coming Years?. Daryl Inniss (LightCounting)",
           "start": "14:00",
           "end": "14:15",
@@ -1672,7 +1672,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514541-t1@webevents",
+          "id": "ecoc2026-s5515267-t1@webevents",
           "title": "Su3-A: AI Scale-Up Networks: Requirements for Reliable, High-Bandwidth-Density Interconnects. Binbin Guan (OpenAI)",
           "start": "14:15",
           "end": "14:30",
@@ -1685,7 +1685,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514541-t2@webevents",
+          "id": "ecoc2026-s5515267-t2@webevents",
           "title": "Su3-A: Photonic interconnects for modern AI superclusters. Mark Filer (Oracle)",
           "start": "14:30",
           "end": "14:45",
@@ -1698,7 +1698,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514541-t3@webevents",
+          "id": "ecoc2026-s5515267-t3@webevents",
           "title": "Su3-A: Optical switching solutions for data center networks in the AI era. Georgios Zervas (Oriole Networks)",
           "start": "14:45",
           "end": "15:00",
@@ -1711,7 +1711,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514541-t4@webevents",
+          "id": "ecoc2026-s5515267-t4@webevents",
           "title": "Su3-A: The Path for Co-Packaged Optics in the AI Ecosystem: Unlocking Advantages Over Pluggable Transceivers for Next-Generation Connectivity. Dan Kuchta (NVIDIA)",
           "start": "15:00",
           "end": "15:15",
@@ -1724,7 +1724,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514541-t5@webevents",
+          "id": "ecoc2026-s5515267-t5@webevents",
           "title": "Su3-A: All Panelists. Reversed Round Table & Audience Q&A (Session 2 speakers are invited to ask questions to Session 1 speakers, followed by open audience questions)",
           "start": "15:15",
           "end": "15:30",
@@ -1739,7 +1739,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514543",
+      "id": "5515269",
       "title": "Su3-B Could 100s-km long unrepeatered HCF links redefine the economics & design of terrestrial and submarine optical networks?",
       "ref": "Su3-B",
       "day": "2026-09-20",
@@ -1755,11 +1755,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514543&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515269&a=ecoc2026",
       "talkCount": 7,
       "talks": [
         {
-          "id": "ecoc2026-s5514543-t0@webevents",
+          "id": "ecoc2026-s5515269-t0@webevents",
           "title": "Su3-B: Design of HCFs for long unrepeated links. Li Peng (YOFC)",
           "start": "14:00",
           "end": "14:10",
@@ -1772,7 +1772,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514543-t1@webevents",
+          "id": "ecoc2026-s5515269-t1@webevents",
           "title": "Su3-B: Design of HCFs for long unrepeated links. Yingying Wang (Linfiber)",
           "start": "14:10",
           "end": "14:20",
@@ -1785,7 +1785,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514543-t2@webevents",
+          "id": "ecoc2026-s5515269-t2@webevents",
           "title": "Su3-B: Characterizaton of long fibers. nicolas fontaine (nokia bell labs (nj))",
           "start": "14:20",
           "end": "14:30",
@@ -1798,7 +1798,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514543-t3@webevents",
+          "id": "ecoc2026-s5515269-t3@webevents",
           "title": "Su3-B: EDFAs for long unrepeatered links. Lutz Rapp (Adtran)",
           "start": "14:30",
           "end": "14:40",
@@ -1811,7 +1811,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514543-t4@webevents",
+          "id": "ecoc2026-s5515269-t4@webevents",
           "title": "Su3-B: Reaching high power with BDFAs. Vitaly Mikhailov (OFS)",
           "start": "14:40",
           "end": "14:50",
@@ -1824,7 +1824,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514543-t5@webevents",
+          "id": "ecoc2026-s5515269-t5@webevents",
           "title": "Su3-B: Energy efficiency of new amplifier. Ronit Sohanpal (University College London)",
           "start": "14:50",
           "end": "15:00",
@@ -1837,7 +1837,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514543-t6@webevents",
+          "id": "ecoc2026-s5515269-t6@webevents",
           "title": "Su3-B: Panel discussion",
           "start": "15:00",
           "end": "15:30",
@@ -1852,7 +1852,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514548",
+      "id": "5515274",
       "title": "Su3-D How will we manage the heterogeneous optical communication networks of the future?",
       "ref": "Su3-D",
       "day": "2026-09-20",
@@ -1868,11 +1868,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514548&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515274&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514548-t0@webevents",
+          "id": "ecoc2026-s5515274-t0@webevents",
           "title": "Su3-D: Introduction.",
           "start": "14:00",
           "end": "14:05",
@@ -1885,7 +1885,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514548-t1@webevents",
+          "id": "ecoc2026-s5515274-t1@webevents",
           "title": "Su3-D: First four speakers (hcf+sdm)",
           "start": "14:05",
           "end": "14:57",
@@ -1898,7 +1898,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514548-t2@webevents",
+          "id": "ecoc2026-s5515274-t2@webevents",
           "title": "Su3-D: Panel q&a with audience",
           "start": "14:57",
           "end": "15:12",
@@ -1911,7 +1911,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514548-t3@webevents",
+          "id": "ecoc2026-s5515274-t3@webevents",
           "title": "Su3-D: Round 1 Weakest “Communication” Link",
           "start": "15:12",
           "end": "15:24",
@@ -1924,7 +1924,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514548-t4@webevents",
+          "id": "ecoc2026-s5515274-t4@webevents",
           "title": "Su3-D: Summarise and Set Scene for after Coffee Break",
           "start": "15:24",
           "end": "15:29",
@@ -1939,7 +1939,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514545",
+      "id": "5515271",
       "title": "Su3-F Hybrid solutions for very high speed PON – the best (or worst) of coherent and IMDD worlds?",
       "ref": "Su3-F",
       "day": "2026-09-20",
@@ -1955,11 +1955,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514545&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515271&a=ecoc2026",
       "talkCount": 8,
       "talks": [
         {
-          "id": "ecoc2026-s5514545-t0@webevents",
+          "id": "ecoc2026-s5515271-t0@webevents",
           "title": "Su3-F: Introduction",
           "start": "14:00",
           "end": "14:10",
@@ -1972,7 +1972,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t1@webevents",
+          "id": "ecoc2026-s5515271-t1@webevents",
           "title": "Su3-F: Shan Wey (Verizon) – The Three Ws of VHSP: Why?, What?, and When?",
           "start": "14:10",
           "end": "14:20",
@@ -1985,7 +1985,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t2@webevents",
+          "id": "ecoc2026-s5515271-t2@webevents",
           "title": "Su3-F: Claudio Rodrigues (Altice Labs) – Hybrid Solutions for VHSP: A Practical Engineering Perspective",
           "start": "14:20",
           "end": "14:30",
@@ -1998,7 +1998,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t3@webevents",
+          "id": "ecoc2026-s5515271-t3@webevents",
           "title": "Su3-F: Kenneth Jackson (Sumitomo Electric) – Leveraging Data-Center Optical Sources for VHSP PON: Opportunities for Coherent-Lite and Hybrid Architectures",
           "start": "14:30",
           "end": "14:40",
@@ -2011,7 +2011,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t4@webevents",
+          "id": "ecoc2026-s5515271-t4@webevents",
           "title": "Su3-F: Noriaki Kaneda (Coherent) – Can VHSP hybrid solutions benefit from developments in the coherent pluggable eco-system?",
           "start": "14:40",
           "end": "14:50",
@@ -2024,7 +2024,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t5@webevents",
+          "id": "ecoc2026-s5515271-t5@webevents",
           "title": "Su3-F: Sebastian Randel (KIT) – Challenges and Possibilities of Hybrid Coherent PONs",
           "start": "14:50",
           "end": "15:00",
@@ -2037,7 +2037,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t6@webevents",
+          "id": "ecoc2026-s5515271-t6@webevents",
           "title": "Su3-F: Jose Galan (MaxLinear) – DSP considerations for coherent, IMDD and hybrid approaches in VHSP systems",
           "start": "15:00",
           "end": "15:10",
@@ -2050,7 +2050,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514545-t7@webevents",
+          "id": "ecoc2026-s5515271-t7@webevents",
           "title": "Su3-F: Panel session",
           "start": "15:10",
           "end": "15:30",
@@ -2065,7 +2065,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514547",
+      "id": "5515273",
       "title": "Su3-G Telecom fiber as a geophysical sensor for earthquake, tsunami and microseismic monitoring",
       "ref": "Su3-G",
       "day": "2026-09-20",
@@ -2081,11 +2081,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514547&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515273&a=ecoc2026",
       "talkCount": 7,
       "talks": [
         {
-          "id": "ecoc2026-s5514547-t0@webevents",
+          "id": "ecoc2026-s5515273-t0@webevents",
           "title": "Su3-G: Chair's introduction",
           "start": "14:00",
           "end": "14:05",
@@ -2098,7 +2098,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514547-t1@webevents",
+          "id": "ecoc2026-s5515273-t1@webevents",
           "title": "Su3-G: Opening a New Window on Earth Dynamics: Microhertz Polarization Sensing with Submarine Cables. Antonio Mecozzi (University of L’Aquila, Italy)",
           "start": "14:05",
           "end": "14:17",
@@ -2111,7 +2111,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514547-t2@webevents",
+          "id": "ecoc2026-s5515273-t2@webevents",
           "title": "Su3-G: From Sensing to Services: Telecom Networks as Multi-Scale Monitoring Infrastructures. Andrè Herrero (Istituto Nazionale di Geofisica e Vulcanologia, INGV, Italy)",
           "start": "14:17",
           "end": "14:29",
@@ -2124,7 +2124,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514547-t3@webevents",
+          "id": "ecoc2026-s5515273-t3@webevents",
           "title": "Su3-G: Telecom Fibers as Geophysical Sensors: Hype, Reality, and Missing Links. Mikael Mazur (Nokia Bell Labs, USA)",
           "start": "14:29",
           "end": "14:41",
@@ -2137,7 +2137,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514547-t4@webevents",
+          "id": "ecoc2026-s5515273-t4@webevents",
           "title": "Su3-G: Pushing the limits for DAS – from earthquake sensing to detection of silent whales. Martin Landrø (Norwegian University of Science and Technology (NTNU), Norway)",
           "start": "14:41",
           "end": "14:53",
@@ -2150,7 +2150,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514547-t5@webevents",
+          "id": "ecoc2026-s5515273-t5@webevents",
           "title": "Su3-G: Sensing earthquakes, ships and other things using submarine cables. Ezra Ip (NEC Laboratories America, Inc., USA)",
           "start": "14:53",
           "end": "15:05",
@@ -2163,7 +2163,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514547-t6@webevents",
+          "id": "ecoc2026-s5515273-t6@webevents",
           "title": "Su3-G: Panel discussion",
           "start": "15:05",
           "end": "15:30",
@@ -2178,7 +2178,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514542",
+      "id": "5515268",
       "title": "Su3-C Will the AI workload require an end-to-end-optimized network infrastructure?",
       "ref": "Su3-C",
       "day": "2026-09-20",
@@ -2194,11 +2194,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514542&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515268&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514542-t0@webevents",
+          "id": "ecoc2026-s5515268-t0@webevents",
           "title": "Su3-C: ITU-T vision on 2030 optical networks. Glenn Parsons (Ericsson)",
           "start": "14:00",
           "end": "14:18",
@@ -2211,7 +2211,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514542-t1@webevents",
+          "id": "ecoc2026-s5515268-t1@webevents",
           "title": "Su3-C: AI-Driven Traffic Evolution in the Optical Backbone: OVHcloud's Fibre Constrained Architecture. Sina Fazel (OVH)",
           "start": "14:18",
           "end": "14:36",
@@ -2224,7 +2224,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514542-t2@webevents",
+          "id": "ecoc2026-s5515268-t2@webevents",
           "title": "Su3-C: End-to-End Optimized Optical Networks for AI Infrastructure: An Operator Perspective. Yuyang Liu. ( China Telecom)",
           "start": "14:30",
           "end": "14:54",
@@ -2237,7 +2237,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514542-t3@webevents",
+          "id": "ecoc2026-s5515268-t3@webevents",
           "title": "Su3-C: Rings: Collapsing the DCN/DCI Boundary to Scale AI Regions. Giuseppe Rizzelli. (Meta)",
           "start": "14:54",
           "end": "15:12",
@@ -2250,7 +2250,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514542-t4@webevents",
+          "id": "ecoc2026-s5515268-t4@webevents",
           "title": "Su3-C: BT Optical Networks for AI. Russell Davey (BT)",
           "start": "15:12",
           "end": "15:30",
@@ -2265,7 +2265,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514544",
+      "id": "5515270",
       "title": "Su3-H Confluence at the edge: rethinking networks for 6G and beyond",
       "ref": "Su3-H",
       "day": "2026-09-20",
@@ -2281,11 +2281,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514544&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515270&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514544-t0@webevents",
+          "id": "ecoc2026-s5515270-t0@webevents",
           "title": "Su3-H: Introduction from the chairs - Confluence in the 6G scenario",
           "start": "14:00",
           "end": "14:12",
@@ -2298,7 +2298,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514544-t1@webevents",
+          "id": "ecoc2026-s5515270-t1@webevents",
           "title": "Su3-H: Latency constraint services. Sandip Das (Nokia)",
           "start": "14:12",
           "end": "14:24",
@@ -2311,7 +2311,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514544-t2@webevents",
+          "id": "ecoc2026-s5515270-t2@webevents",
           "title": "Su3-H: UK 6G program: what we tried, what worked. Dimitra Simeonidou (University of Bristol)",
           "start": "14:24",
           "end": "14:36",
@@ -2324,7 +2324,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514544-t3@webevents",
+          "id": "ecoc2026-s5515270-t3@webevents",
           "title": "Su3-H: Control Plane for on-demand mesh networks. Merim Džaferagic (Trinity College)",
           "start": "14:36",
           "end": "14:48",
@@ -2337,7 +2337,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514544-t4@webevents",
+          "id": "ecoc2026-s5515270-t4@webevents",
           "title": "Su3-H: Agentic AI as an emerging capacity driver. Achim Autenrieth (Adtran)",
           "start": "14:48",
           "end": "15:00",
@@ -2350,7 +2350,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514544-t5@webevents",
+          "id": "ecoc2026-s5515270-t5@webevents",
           "title": "Su3-H: Panel",
           "start": "15:00",
           "end": "15:30",
@@ -2365,7 +2365,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514546",
+      "id": "5515272",
       "title": "Su3-I Can fast narrow channels keep rising without limit or will slow and wide become the winner?",
       "ref": "Su3-I",
       "day": "2026-09-20",
@@ -2381,11 +2381,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514546&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515272&a=ecoc2026",
       "talkCount": 8,
       "talks": [
         {
-          "id": "ecoc2026-s5514546-t0@webevents",
+          "id": "ecoc2026-s5515272-t0@webevents",
           "title": "Su3-I: Opening remarks — Eric Bernier and Peter Winzer",
           "start": "14:00",
           "end": "14:06",
@@ -2398,7 +2398,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t1@webevents",
+          "id": "ecoc2026-s5515272-t1@webevents",
           "title": "Su3-I: Roy Rubenstein — LightCounting",
           "start": "14:06",
           "end": "14:18",
@@ -2411,7 +2411,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t2@webevents",
+          "id": "ecoc2026-s5515272-t2@webevents",
           "title": "Su3-I: Sunil Priyadarshi — Arista",
           "start": "14:18",
           "end": "14:30",
@@ -2424,7 +2424,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t3@webevents",
+          "id": "ecoc2026-s5515272-t3@webevents",
           "title": "Su3-I: Letizia Giuliano — Qualcomm",
           "start": "14:30",
           "end": "14:42",
@@ -2437,7 +2437,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t4@webevents",
+          "id": "ecoc2026-s5515272-t4@webevents",
           "title": "Su3-I: Bilal Riaz — Ciena",
           "start": "14:42",
           "end": "14:54",
@@ -2450,7 +2450,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t5@webevents",
+          "id": "ecoc2026-s5515272-t5@webevents",
           "title": "Su3-I: Wen Zheng — Huawei",
           "start": "14:54",
           "end": "15:06",
@@ -2463,7 +2463,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t6@webevents",
+          "id": "ecoc2026-s5515272-t6@webevents",
           "title": "Su3-I: Lenin Patra — Marvell",
           "start": "15:06",
           "end": "15:18",
@@ -2476,7 +2476,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514546-t7@webevents",
+          "id": "ecoc2026-s5515272-t7@webevents",
           "title": "Su3-I: Chris Cole — Applied Materials",
           "start": "15:18",
           "end": "15:30",
@@ -2491,7 +2491,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514852",
+      "id": "5515578",
       "title": "Afternoon coffee break",
       "ref": "Afternoon",
       "day": "2026-09-20",
@@ -2507,12 +2507,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514852&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515578&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514653",
+      "id": "5515379",
       "title": "Su4-A Meeting diverse AI connectivity needs: architectural choices for next-generation pluggable transceivers",
       "ref": "Su4-A",
       "day": "2026-09-20",
@@ -2528,11 +2528,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514653&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515379&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514653-t0@webevents",
+          "id": "ecoc2026-s5515379-t0@webevents",
           "title": "Su4-A: Next-generation DSP trends for the AI ecosystem. Lenin Patra (Marvell)",
           "start": "16:00",
           "end": "16:15",
@@ -2545,7 +2545,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514653-t1@webevents",
+          "id": "ecoc2026-s5515379-t1@webevents",
           "title": "Su4-A: Future role of coherent technology for data-centers applications. Kim Roberts (Ciena)",
           "start": "16:15",
           "end": "16:30",
@@ -2558,7 +2558,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514653-t2@webevents",
+          "id": "ecoc2026-s5515379-t2@webevents",
           "title": "Su4-A: CPO, LPO, T/LRO, XPO, EIEIO….A vendor perspective on architectural evolution. Tom Williams (Acacia)",
           "start": "16:30",
           "end": "16:45",
@@ -2571,7 +2571,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514653-t3@webevents",
+          "id": "ecoc2026-s5515379-t3@webevents",
           "title": "Su4-A: Evolution of Coherent DSP to Meet the Evolving Needs of the AI Supercycle. Bilal Syed (Nokia)",
           "start": "16:45",
           "end": "17:00",
@@ -2584,7 +2584,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514653-t4@webevents",
+          "id": "ecoc2026-s5515379-t4@webevents",
           "title": "Su4-A: Can Photonic Signal Processing Simplify DSP?: Breaking the Fiber Dispersion Barrier in IM/DD. Yuki Yoshida (NICT)",
           "start": "17:00",
           "end": "17:15",
@@ -2597,7 +2597,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514653-t5@webevents",
+          "id": "ecoc2026-s5515379-t5@webevents",
           "title": "Su4-A: All Panelists. Reversed Round Table & Audience Q&A (Session 1 speakers are invited to ask questions to Session 2 speakers, followed by open audience questions)",
           "start": "17:15",
           "end": "17:30",
@@ -2612,7 +2612,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514655",
+      "id": "5515381",
       "title": "Su4-B Could 100s-km long unrepeatered HCF links redefine the economics & design of terrestrial and submarine optical networks?",
       "ref": "Su4-B",
       "day": "2026-09-20",
@@ -2628,11 +2628,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514655&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515381&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514655-t0@webevents",
+          "id": "ecoc2026-s5515381-t0@webevents",
           "title": "Su4-B: Splicing and monitoring techniques. Radan Slavik (ORC - University of Southampton)",
           "start": "16:00",
           "end": "16:12",
@@ -2645,7 +2645,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514655-t1@webevents",
+          "id": "ecoc2026-s5515381-t1@webevents",
           "title": "Su4-B: Performance limits of HCF links. Haik Mardoyan (Nokia Bell Labs)",
           "start": "16:12",
           "end": "16:24",
@@ -2658,7 +2658,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514655-t2@webevents",
+          "id": "ecoc2026-s5515381-t2@webevents",
           "title": "Su4-B: In-field systems deployment using HCF. Dong Wang (China Mobile Research Institute)",
           "start": "16:24",
           "end": "16:36",
@@ -2671,7 +2671,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514655-t3@webevents",
+          "id": "ecoc2026-s5515381-t3@webevents",
           "title": "Su4-B: Long Haul transmission opportunities. Alexis Carbo Meseguer (Alcatel Submarine Networks (ASN))",
           "start": "16:36",
           "end": "16:48",
@@ -2684,7 +2684,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514655-t4@webevents",
+          "id": "ecoc2026-s5515381-t4@webevents",
           "title": "Su4-B: System requirements for long unrepeated links. Yang Hong (Microsoft Azure Fiber)",
           "start": "16:48",
           "end": "17:00",
@@ -2697,7 +2697,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514655-t5@webevents",
+          "id": "ecoc2026-s5515381-t5@webevents",
           "title": "Su4-B: Panel Discussion",
           "start": "17:00",
           "end": "17:30",
@@ -2712,7 +2712,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514660",
+      "id": "5515386",
       "title": "Su4-D How will we manage the heterogeneous optical communication networks of the future?",
       "ref": "Su4-D",
       "day": "2026-09-20",
@@ -2728,11 +2728,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514660&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515386&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514660-t0@webevents",
+          "id": "ecoc2026-s5515386-t0@webevents",
           "title": "Su4-D: Workshop introduction (2nd half)",
           "start": "16:00",
           "end": "16:05",
@@ -2745,7 +2745,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514660-t1@webevents",
+          "id": "ecoc2026-s5515386-t1@webevents",
           "title": "Su4-D: Next Four Speakers (FSO+SMF)",
           "start": "16:05",
           "end": "16:57",
@@ -2758,7 +2758,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514660-t2@webevents",
+          "id": "ecoc2026-s5515386-t2@webevents",
           "title": "Su4-D: Panel Q&A with Audience",
           "start": "16:57",
           "end": "17:12",
@@ -2771,7 +2771,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514660-t3@webevents",
+          "id": "ecoc2026-s5515386-t3@webevents",
           "title": "Su4-D: Round 2 weakest “communication” link",
           "start": "17:12",
           "end": "17:24",
@@ -2784,7 +2784,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514660-t4@webevents",
+          "id": "ecoc2026-s5515386-t4@webevents",
           "title": "Su4-D: Concluding Remarks & Thanks",
           "start": "17:24",
           "end": "17:29",
@@ -2799,7 +2799,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514657",
+      "id": "5515383",
       "title": "Su4-F Hybrid solutions for very high speed PON – the best (or worst) of coherent and IMDD worlds?",
       "ref": "Su4-F",
       "day": "2026-09-20",
@@ -2815,11 +2815,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514657&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515383&a=ecoc2026",
       "talkCount": 8,
       "talks": [
         {
-          "id": "ecoc2026-s5514657-t0@webevents",
+          "id": "ecoc2026-s5515383-t0@webevents",
           "title": "Su4-F: Introduction",
           "start": "16:00",
           "end": "16:05",
@@ -2832,7 +2832,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t1@webevents",
+          "id": "ecoc2026-s5515383-t1@webevents",
           "title": "Su4-F: Philippe Chanclou (Orange) - An operator's perspective on the needs and approaches for VHSP",
           "start": "16:05",
           "end": "16:15",
@@ -2845,7 +2845,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t2@webevents",
+          "id": "ecoc2026-s5515383-t2@webevents",
           "title": "Su4-F: Vincent Houtsma (Nokia) – Can VHSP be still fully IM-DD based?",
           "start": "16:15",
           "end": "16:25",
@@ -2858,7 +2858,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t3@webevents",
+          "id": "ecoc2026-s5515383-t3@webevents",
           "title": "Su4-F: Giuseppe Rizzelli (PoliTo) – Digital Chromatic Dispersion Pre-Compensation for VHSP",
           "start": "16:25",
           "end": "16:35",
@@ -2871,7 +2871,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t4@webevents",
+          "id": "ecoc2026-s5515383-t4@webevents",
           "title": "Su4-F: Ryo Koma (NTT) – Single-Sideband Solutions for CD Penalty Mitigation in the Era of VHSP and 50G-TWDM PONs",
           "start": "16:35",
           "end": "16:45",
@@ -2884,7 +2884,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t5@webevents",
+          "id": "ecoc2026-s5515383-t5@webevents",
           "title": "Su4-F: Giuseppe Talli (Huawei) – Pushing Direct Detection: Limits and Workarounds for VHSP",
           "start": "16:45",
           "end": "16:55",
@@ -2897,7 +2897,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t6@webevents",
+          "id": "ecoc2026-s5515383-t6@webevents",
           "title": "Su4-F: Martin Kuipers (Adtran) – 200G PON: The next territory for coherent technology",
           "start": "16:55",
           "end": "17:05",
@@ -2910,7 +2910,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514657-t7@webevents",
+          "id": "ecoc2026-s5515383-t7@webevents",
           "title": "Su4-F: Panel session",
           "start": "17:05",
           "end": "17:25",
@@ -2925,7 +2925,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514659",
+      "id": "5515385",
       "title": "Su4-G Telecom fiber as a geophysical sensor for earthquake, tsunami and microseismic monitoring",
       "ref": "Su4-G",
       "day": "2026-09-20",
@@ -2941,11 +2941,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514659&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515385&a=ecoc2026",
       "talkCount": 7,
       "talks": [
         {
-          "id": "ecoc2026-s5514659-t0@webevents",
+          "id": "ecoc2026-s5515385-t0@webevents",
           "title": "Su4-G: Chair's introduction",
           "start": "16:00",
           "end": "16:05",
@@ -2958,7 +2958,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514659-t1@webevents",
+          "id": "ecoc2026-s5515385-t1@webevents",
           "title": "Su4-G: Multi-tech fiber sensing testbed exploiting FTTH network in Campi Flegrei. Emanuele Virgillito (Politecnico di Torino, Italy)",
           "start": "16:05",
           "end": "16:17",
@@ -2971,7 +2971,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514659-t2@webevents",
+          "id": "ecoc2026-s5515385-t2@webevents",
           "title": "Su4-G: Adoption of DAS for full-resolution geophysical monitoring. Jan Kristooer Brenne (Alcatel Submarine Networks, Norway)",
           "start": "16:17",
           "end": "16:29",
@@ -2984,7 +2984,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514659-t3@webevents",
+          "id": "ecoc2026-s5515385-t3@webevents",
           "title": "Su4-G: A system design perspective on distributed acoustic sensing for geophysical events: trade-offs and limits. Rajiv Boddeda (Nokia Bell Labs, France)",
           "start": "16:29",
           "end": "16:41",
@@ -2997,7 +2997,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514659-t4@webevents",
+          "id": "ecoc2026-s5515385-t4@webevents",
           "title": "Su4-G: Digital Signal Processing for Extracting Weak Vibration Signatures in Telecom-Fiber Distributed Acoustic Sensing, Yaxi YAN. (Hong Kong Polytechnic University, Hong Kong)",
           "start": "16:41",
           "end": "16:53",
@@ -3010,7 +3010,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514659-t5@webevents",
+          "id": "ecoc2026-s5515385-t5@webevents",
           "title": "Su4-G: Sensing with Light: How to Architect Networks That See and Communicate?. Aleksandra Kaszubowska (Trinity College Dublin, Ireland)",
           "start": "16:53",
           "end": "17:05",
@@ -3023,7 +3023,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514659-t6@webevents",
+          "id": "ecoc2026-s5515385-t6@webevents",
           "title": "Su4-G: Panel discussion",
           "start": "17:05",
           "end": "17:30",
@@ -3038,7 +3038,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514654",
+      "id": "5515380",
       "title": "Su4-D Will the AI workload require an end-to-end-optimized network infrastructure?",
       "ref": "Su4-D",
       "day": "2026-09-20",
@@ -3054,11 +3054,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514654&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515380&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514654-t0@webevents",
+          "id": "ecoc2026-s5515380-t0@webevents",
           "title": "Su4-D: Towards AI-Native Infrastructure with Optical Network Digital Twins. Hideki Nishizawa (NTT)",
           "start": "16:00",
           "end": "16:18",
@@ -3071,7 +3071,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514654-t1@webevents",
+          "id": "ecoc2026-s5515380-t1@webevents",
           "title": "Su4-D: How to build efficient optical networks for AI using domain intelligence?. Annalisa Morea (Nokia)",
           "start": "16:18",
           "end": "16:36",
@@ -3084,7 +3084,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514654-t2@webevents",
+          "id": "ecoc2026-s5515380-t2@webevents",
           "title": "Su4-D: Integrated Computing-Network Design for AI-DC. Hongchen Yu (Huawei)",
           "start": "16:36",
           "end": "16:54",
@@ -3097,7 +3097,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514654-t3@webevents",
+          "id": "ecoc2026-s5515380-t3@webevents",
           "title": "Su4-D: Building the Optical Networks AI Actually Wants.Robert Keys (Ciena)",
           "start": "16:54",
           "end": "17:12",
@@ -3110,7 +3110,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514654-t4@webevents",
+          "id": "ecoc2026-s5515380-t4@webevents",
           "title": "Su4-D: The Interconnected Edge: Networking strategies for Telco AI Cloud. Ricard Vilalta (CTTC)",
           "start": "17:12",
           "end": "17:30",
@@ -3125,7 +3125,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514656",
+      "id": "5515382",
       "title": "Su4-H Confluence at the edge: rethinking networks for 6G and beyond",
       "ref": "Su4-H",
       "day": "2026-09-20",
@@ -3141,11 +3141,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514656&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515382&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
-          "id": "ecoc2026-s5514656-t0@webevents",
+          "id": "ecoc2026-s5515382-t0@webevents",
           "title": "Su4-H: Plasmonic technologies for THz communication. Jasmin Smajic (ETH)",
           "start": "16:00",
           "end": "16:12",
@@ -3158,7 +3158,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514656-t1@webevents",
+          "id": "ecoc2026-s5515382-t1@webevents",
           "title": "Su4-H: Radio/Optical Wireless. Iman Tavakkolnia (Cambridge University)",
           "start": "16:12",
           "end": "16:24",
@@ -3171,7 +3171,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514656-t2@webevents",
+          "id": "ecoc2026-s5515382-t2@webevents",
           "title": "Su4-H: Data plane for confluent communication. Dan Kilper (Trinity College)",
           "start": "16:24",
           "end": "16:36",
@@ -3184,7 +3184,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514656-t3@webevents",
+          "id": "ecoc2026-s5515382-t3@webevents",
           "title": "Su4-H: Transceivers for metro-scale applications. Annina Moser (Marvell)",
           "start": "16:36",
           "end": "16:48",
@@ -3197,7 +3197,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514656-t4@webevents",
+          "id": "ecoc2026-s5515382-t4@webevents",
           "title": "Su4-H: IOWN perspective on optical spectrum and network digital twins. Toru Mano (NTT)",
           "start": "16:48",
           "end": "17:00",
@@ -3210,7 +3210,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514656-t5@webevents",
+          "id": "ecoc2026-s5515382-t5@webevents",
           "title": "Su4-H: Panel",
           "start": "17:00",
           "end": "17:30",
@@ -3225,7 +3225,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514658",
+      "id": "5515384",
       "title": "Su4-I Can fast narrow channels keep rising without limit or will slow and wide become the winner?",
       "ref": "Su4-I",
       "day": "2026-09-20",
@@ -3241,11 +3241,11 @@ window.PROGRAMME = {
       "color": "#7c3aed",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514658&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515384&a=ecoc2026",
       "talkCount": 8,
       "talks": [
         {
-          "id": "ecoc2026-s5514658-t0@webevents",
+          "id": "ecoc2026-s5515384-t0@webevents",
           "title": "Su4-I: Opening remarks — Tony Chan Carusone, Senior VP Technology, Qualcomm",
           "start": "16:00",
           "end": "16:06",
@@ -3258,7 +3258,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t1@webevents",
+          "id": "ecoc2026-s5515384-t1@webevents",
           "title": "Su4-I: Binbin Guan — OpenAI",
           "start": "16:06",
           "end": "16:18",
@@ -3271,7 +3271,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t2@webevents",
+          "id": "ecoc2026-s5515384-t2@webevents",
           "title": "Su4-I: Matt Sysak — Lumentum",
           "start": "16:18",
           "end": "16:30",
@@ -3284,7 +3284,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t3@webevents",
+          "id": "ecoc2026-s5515384-t3@webevents",
           "title": "Su4-I: Chris Kocot — Coherent",
           "start": "16:30",
           "end": "16:42",
@@ -3297,7 +3297,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t4@webevents",
+          "id": "ecoc2026-s5515384-t4@webevents",
           "title": "Su4-I: Christian Reimer — HyperLight",
           "start": "16:42",
           "end": "16:54",
@@ -3310,7 +3310,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t5@webevents",
+          "id": "ecoc2026-s5515384-t5@webevents",
           "title": "Su4-I: Darius Bunandar — Lightmatter",
           "start": "16:54",
           "end": "17:06",
@@ -3323,7 +3323,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t6@webevents",
+          "id": "ecoc2026-s5515384-t6@webevents",
           "title": "Su4-I: Mohsen Asad — Credo",
           "start": "17:06",
           "end": "17:18",
@@ -3336,7 +3336,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514658-t7@webevents",
+          "id": "ecoc2026-s5515384-t7@webevents",
           "title": "Su4-I: Vivek Raghunathan — Xscape Photonics",
           "start": "17:18",
           "end": "17:30",
@@ -3351,7 +3351,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514594",
+      "id": "5515320",
       "title": "Get-together at FYCMA",
       "ref": "Get-together",
       "day": "2026-09-20",
@@ -3367,12 +3367,12 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514594&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515320&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514634",
+      "id": "5515360",
       "title": "Morning coffee",
       "ref": "Morning",
       "day": "2026-09-21",
@@ -3388,12 +3388,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514634&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515360&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514513",
+      "id": "5515239",
       "title": "Mo12-A Opening and plenaries (in person)",
       "ref": "Mo12-A",
       "day": "2026-09-21",
@@ -3409,11 +3409,11 @@ window.PROGRAMME = {
       "color": "#dc2626",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514513&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515239&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514513-t0@webevents",
+          "id": "ecoc2026-s5515239-t0@webevents",
           "title": "Mo12-A1 Opening by: Robert Halir, Ivana Gasulla, José Capmany, Íñigo Molina",
           "start": "09:30",
           "end": "10:00",
@@ -3426,7 +3426,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514513-t1@webevents",
+          "id": "ecoc2026-s5515239-t1@webevents",
           "title": "Mo12-A3 AI cluster communications",
           "start": "10:00",
           "end": "10:30",
@@ -3441,7 +3441,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514513-t2@webevents",
+          "id": "ecoc2026-s5515239-t2@webevents",
           "title": "Mo12-A4 integrated photonics at the heart of a scalable AI revolution",
           "start": "10:30",
           "end": "11:00",
@@ -3456,7 +3456,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514513-t3@webevents",
+          "id": "ecoc2026-s5515239-t3@webevents",
           "title": "Mo12-A5 Scaling AI From Optical Innovation to NPO and CPO Solutions",
           "start": "11:00",
           "end": "11:30",
@@ -3471,7 +3471,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514513-t4@webevents",
+          "id": "ecoc2026-s5515239-t4@webevents",
           "title": "Mo12-A6 Photonics for Quantum Computing",
           "start": "11:30",
           "end": "12:00",
@@ -3488,7 +3488,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514644",
+      "id": "5515370",
       "title": "Mo12-B Opening and plenaries (live stream)",
       "ref": "Mo12-B",
       "day": "2026-09-21",
@@ -3504,11 +3504,11 @@ window.PROGRAMME = {
       "color": "#dc2626",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514644&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515370&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514644-t4@webevents",
+          "id": "ecoc2026-s5515370-t4@webevents",
           "title": "Mo12-B1 Opening",
           "start": "09:30",
           "end": "10:00",
@@ -3521,7 +3521,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514644-t0@webevents",
+          "id": "ecoc2026-s5515370-t0@webevents",
           "title": "Mo12-B3 AI cluster communications",
           "start": "10:00",
           "end": "10:30",
@@ -3536,7 +3536,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514644-t1@webevents",
+          "id": "ecoc2026-s5515370-t1@webevents",
           "title": "Mo12-B4 Integrated photonics at the heart of a scalable AI revolution",
           "start": "10:30",
           "end": "11:00",
@@ -3551,7 +3551,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514644-t2@webevents",
+          "id": "ecoc2026-s5515370-t2@webevents",
           "title": "Mo12-B5 Scaling AI From Optical Innovation to NPO and CPO Solutions",
           "start": "11:00",
           "end": "11:30",
@@ -3566,7 +3566,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514644-t3@webevents",
+          "id": "ecoc2026-s5515370-t3@webevents",
           "title": "Mo12-B6 Photonics for Quantum Computing",
           "start": "11:30",
           "end": "12:00",
@@ -3583,7 +3583,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514906",
+      "id": "5515632",
       "title": "Mo12-I Opening and plenaries (live stream)",
       "ref": "Mo12-I",
       "day": "2026-09-21",
@@ -3599,11 +3599,11 @@ window.PROGRAMME = {
       "color": "#dc2626",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514906&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515632&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
-          "id": "ecoc2026-s5514906-t0@webevents",
+          "id": "ecoc2026-s5515632-t0@webevents",
           "title": "Mo12-I: Mo12-B3 AI cluster communications",
           "start": "10:00",
           "end": "10:30",
@@ -3618,7 +3618,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514906-t1@webevents",
+          "id": "ecoc2026-s5515632-t1@webevents",
           "title": "Mo12-I: Mo12-B4 Integrated photonics at the heart of a scalable AI revolution",
           "start": "10:30",
           "end": "11:00",
@@ -3633,7 +3633,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514906-t2@webevents",
+          "id": "ecoc2026-s5515632-t2@webevents",
           "title": "Mo12-I: Mo12-B5 Scaling AI From Optical Innovation to NPO and CPO Solutions",
           "start": "11:00",
           "end": "11:30",
@@ -3648,7 +3648,7 @@ window.PROGRAMME = {
           "abstractId": ""
         },
         {
-          "id": "ecoc2026-s5514906-t3@webevents",
+          "id": "ecoc2026-s5515632-t3@webevents",
           "title": "Mo12-I: Mo12-B6 Photonics for Quantum Computing",
           "start": "11:30",
           "end": "12:00",
@@ -3665,7 +3665,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514640",
+      "id": "5515366",
       "title": "Lunch",
       "ref": "",
       "day": "2026-09-21",
@@ -3681,12 +3681,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514640&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515366&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514514",
+      "id": "5515240",
       "title": "Mo3-A Photonic-driven architectures for access networks and AI clusters",
       "ref": "Mo3-A",
       "day": "2026-09-21",
@@ -3702,11 +3702,11 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514514&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515240&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514514-t0@webevents",
+          "id": "ecoc2026-s5515240-t0@webevents",
           "title": "Mo3-A1 The role of programmable photonics in ai data centers",
           "start": "14:00",
           "end": "14:30",
@@ -3817,7 +3817,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514517",
+      "id": "5515243",
       "title": "Mo3-B Hollow-core fibre fabrication and deployment",
       "ref": "Mo3-B",
       "day": "2026-09-21",
@@ -3833,7 +3833,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514517&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515243&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -3903,7 +3903,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514521",
+      "id": "5515247",
       "title": "Mo3-D Integrated quantum photonics (i)",
       "ref": "Mo3-D",
       "day": "2026-09-21",
@@ -3919,7 +3919,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 11: Quantum communications, physical layer security, and optical quantum technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514521&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515247&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -4031,7 +4031,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514523",
+      "id": "5515249",
       "title": "Mo3-E Optical non-terrestrian networks",
       "ref": "Mo3-E",
       "day": "2026-09-21",
@@ -4047,7 +4047,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 06: Architecture, modelling and performance of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514523&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515249&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -4138,7 +4138,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514525",
+      "id": "5515251",
       "title": "Mo3-F DSP for high spectral efficiency and SDM",
       "ref": "Mo3-F",
       "day": "2026-09-21",
@@ -4154,7 +4154,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514525&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515251&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -4275,7 +4275,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514527",
+      "id": "5515253",
       "title": "Mo3-G Submarine and unrepeatered systems",
       "ref": "Mo3-G",
       "day": "2026-09-21",
@@ -4291,11 +4291,11 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514527&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515253&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514527-t0@webevents",
+          "id": "ecoc2026-s5515253-t0@webevents",
           "title": "Mo3-G1 Technologies and challenges for beyond petabit submarine cable",
           "start": "14:00",
           "end": "14:30",
@@ -4407,7 +4407,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514519",
+      "id": "5515245",
       "title": "Mo3-C Lasers and sources",
       "ref": "Mo3-C",
       "day": "2026-09-21",
@@ -4423,7 +4423,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514519&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515245&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -4541,7 +4541,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514529",
+      "id": "5515255",
       "title": "Mo3-H New approaches for linear and nonlinear functionalities",
       "ref": "Mo3-H",
       "day": "2026-09-21",
@@ -4557,7 +4557,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 12: CLEO® Special Session on Emerging Trends in Optics and Photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514529&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515255&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -4645,7 +4645,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514531",
+      "id": "5515257",
       "title": "Mo3-I Winning interconnects for AI: scale-up & scale-out technology paths",
       "ref": "Mo3-I",
       "day": "2026-09-21",
@@ -4661,12 +4661,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514531&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515257&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514863",
+      "id": "5515589",
       "title": "Afternoon coffee break",
       "ref": "Afternoon",
       "day": "2026-09-21",
@@ -4682,12 +4682,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514863&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515589&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514515",
+      "id": "5515241",
       "title": "Mo4-P Poster",
       "ref": "Mo4-P",
       "day": "2026-09-21",
@@ -4703,7 +4703,7 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514515&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515241&a=ecoc2026",
       "talkCount": 133,
       "talks": [
         {
@@ -7755,7 +7755,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514516",
+      "id": "5515242",
       "title": "Mo5-A Distributed optical sensing: from physics to network deployment",
       "ref": "Mo5-A",
       "day": "2026-09-21",
@@ -7771,7 +7771,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514516&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515242&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -7839,7 +7839,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514518",
+      "id": "5515244",
       "title": "Mo5-B Hollow-core fibre design",
       "ref": "Mo5-B",
       "day": "2026-09-21",
@@ -7855,7 +7855,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514518&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515244&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -7953,7 +7953,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514522",
+      "id": "5515248",
       "title": "Mo5-D Integrated quantum photonics (II)",
       "ref": "Mo5-D",
       "day": "2026-09-21",
@@ -7969,11 +7969,11 @@ window.PROGRAMME = {
       "color": "#0891b2",
       "track": "SC 12: CLEO® Special Session on Emerging Trends in Optics and Photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514522&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515248&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
-          "id": "ecoc2026-s5514522-t0@webevents",
+          "id": "ecoc2026-s5515248-t0@webevents",
           "title": "Mo5-D1 Photonic integrated circuits on soi and sin for quantum communications and quantum computing",
           "start": "16:45",
           "end": "17:15",
@@ -8042,7 +8042,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514524",
+      "id": "5515250",
       "title": "Mo5-E Packaging and dense integration",
       "ref": "Mo5-E",
       "day": "2026-09-21",
@@ -8058,7 +8058,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514524&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515250&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -8214,7 +8214,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514526",
+      "id": "5515252",
       "title": "Mo5-F ML and nonlinearity mitigation",
       "ref": "Mo5-F",
       "day": "2026-09-21",
@@ -8230,7 +8230,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514526&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515252&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -8355,7 +8355,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514528",
+      "id": "5515254",
       "title": "Mo5-G Very high speed PON",
       "ref": "Mo5-G",
       "day": "2026-09-21",
@@ -8371,7 +8371,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514528&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515254&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -8480,7 +8480,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514520",
+      "id": "5515246",
       "title": "Mo5-C Resonators, TFLT and integrated routing devices",
       "ref": "Mo5-C",
       "day": "2026-09-21",
@@ -8496,7 +8496,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514520&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515246&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -8555,7 +8555,7 @@ window.PROGRAMME = {
           "abstractId": "211668"
         },
         {
-          "id": "ecoc2026-s5514520-t2@webevents",
+          "id": "ecoc2026-s5515246-t2@webevents",
           "title": "Mo5-C3 Thin film lithium tantalate photonic integrated circuits for next generation high speed communications and lasers.",
           "start": "17:15",
           "end": "17:45",
@@ -8614,7 +8614,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514530",
+      "id": "5515256",
       "title": "Mo5-H Control and optimization of optical network systems",
       "ref": "Mo5-H",
       "day": "2026-09-21",
@@ -8630,7 +8630,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 10: Control and management of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514530&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515256&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -8763,7 +8763,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514532",
+      "id": "5515258",
       "title": "Mo4-I Winning interconnects for AI: scale-up & scale-out technology paths",
       "ref": "Mo4-I",
       "day": "2026-09-21",
@@ -8779,12 +8779,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514532&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515258&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514595",
+      "id": "5515321",
       "title": "Welcome reception at Cruise Terminal",
       "ref": "Welcome",
       "day": "2026-09-21",
@@ -8800,12 +8800,12 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514595&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515321&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514831",
+      "id": "5515557",
       "title": "Morning coffee",
       "ref": "Morning",
       "day": "2026-09-22",
@@ -8821,12 +8821,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514831&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515557&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514568",
+      "id": "5515294",
       "title": "Tu1-A From high-Q resonators to frequency comb generation",
       "ref": "Tu1-A",
       "day": "2026-09-22",
@@ -8842,7 +8842,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 12: CLEO® Special Session on Emerging Trends in Optics and Photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514568&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515294&a=ecoc2026",
       "talkCount": 2,
       "talks": [
         {
@@ -8863,7 +8863,7 @@ window.PROGRAMME = {
           "abstractId": "213039"
         },
         {
-          "id": "ecoc2026-s5514568-t1@webevents",
+          "id": "ecoc2026-s5515294-t1@webevents",
           "title": "Tu1-A2 flattop soliton microcombs for low power optical data links",
           "start": "10:00",
           "end": "10:30",
@@ -8880,7 +8880,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514571",
+      "id": "5515297",
       "title": "Tu1-B Hollow core fibers in optical networks",
       "ref": "Tu1-B",
       "day": "2026-09-22",
@@ -8896,7 +8896,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 06: Architecture, modelling and performance of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514571&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515297&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -9009,7 +9009,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514576",
+      "id": "5515302",
       "title": "Tu1-D Optical amplification",
       "ref": "Tu1-D",
       "day": "2026-09-22",
@@ -9025,7 +9025,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514576&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515302&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -9124,7 +9124,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514579",
+      "id": "5515305",
       "title": "Tu1-E Optical switches and demultiplexers",
       "ref": "Tu1-E",
       "day": "2026-09-22",
@@ -9140,7 +9140,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514579&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515305&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -9193,7 +9193,7 @@ window.PROGRAMME = {
           "abstractId": "211406"
         },
         {
-          "id": "ecoc2026-s5514579-t2@webevents",
+          "id": "ecoc2026-s5515305-t2@webevents",
           "title": "Tu1-E3 breaking the AI networking and memory wall with a wide-and-slow architecture and microleds",
           "start": "09:30",
           "end": "10:00",
@@ -9261,7 +9261,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514582",
+      "id": "5515308",
       "title": "Tu1-F AI-driven control and monitoring in optical access networks",
       "ref": "Tu1-F",
       "day": "2026-09-22",
@@ -9277,7 +9277,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 10: Control and management of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514582&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515308&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -9389,7 +9389,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514585",
+      "id": "5515311",
       "title": "Tu1-G Short reach interconnects",
       "ref": "Tu1-G",
       "day": "2026-09-22",
@@ -9405,7 +9405,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514585&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515311&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -9535,7 +9535,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514574",
+      "id": "5515300",
       "title": "Tu1-C Advanced enabling technologies for free-space optical and optical wireless communications",
       "ref": "Tu1-C",
       "day": "2026-09-22",
@@ -9551,7 +9551,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 09: Free-space optics and optical wireless technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514574&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515300&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -9671,7 +9671,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514588",
+      "id": "5515314",
       "title": "Tu1-H Microwave photonics and radio over fiber",
       "ref": "Tu1-H",
       "day": "2026-09-22",
@@ -9687,7 +9687,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514588&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515314&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -9796,7 +9796,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514591",
+      "id": "5515317",
       "title": "Tu1-I Optical fiber sensing and its aplications",
       "ref": "Tu1-I",
       "day": "2026-09-22",
@@ -9812,7 +9812,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514591&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515317&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -9959,7 +9959,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514885",
+      "id": "5515611",
       "title": "Exhibition & coffee break",
       "ref": "Exhibition",
       "day": "2026-09-22",
@@ -9975,12 +9975,12 @@ window.PROGRAMME = {
       "color": "#64748b",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514885&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515611&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514593",
+      "id": "5515319",
       "title": "Tu2-Ex Demo zone",
       "ref": "Tu2-Ex",
       "day": "2026-09-22",
@@ -9996,7 +9996,7 @@ window.PROGRAMME = {
       "color": "#64748b",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514593&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515319&a=ecoc2026",
       "talkCount": 22,
       "talks": [
         {
@@ -10561,7 +10561,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514643",
+      "id": "5515369",
       "title": "Lunch",
       "ref": "",
       "day": "2026-09-22",
@@ -10577,12 +10577,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514643&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515369&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514569",
+      "id": "5515295",
       "title": "Tu3-A AI and advanced processing for optical communication systems",
       "ref": "Tu3-A",
       "day": "2026-09-22",
@@ -10598,11 +10598,11 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514569&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515295&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
-          "id": "ecoc2026-s5514569-t0@webevents",
+          "id": "ecoc2026-s5515295-t0@webevents",
           "title": "Tu3-A1 Communication engineering in the age of AI",
           "start": "14:00",
           "end": "15:00",
@@ -10662,7 +10662,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514572",
+      "id": "5515298",
       "title": "Tu3-B Light propagation and manipulation from short to long distance",
       "ref": "Tu3-B",
       "day": "2026-09-22",
@@ -10678,7 +10678,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 12: CLEO® Special Session on Emerging Trends in Optics and Photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514572&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515298&a=ecoc2026",
       "talkCount": 2,
       "talks": [
         {
@@ -10737,7 +10737,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514577",
+      "id": "5515303",
       "title": "Tu3-D Integrated modulators",
       "ref": "Tu3-D",
       "day": "2026-09-22",
@@ -10753,7 +10753,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514577&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515303&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -10907,7 +10907,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514580",
+      "id": "5515306",
       "title": "Tu3-E Digital twin and autonomous network intelligence",
       "ref": "Tu3-E",
       "day": "2026-09-22",
@@ -10923,7 +10923,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 10: Control and management of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514580&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515306&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -11039,7 +11039,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514584",
+      "id": "5515310",
       "title": "Tu3-F AI for 6G and 6G for AI",
       "ref": "Tu3-F",
       "day": "2026-09-22",
@@ -11055,12 +11055,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514584&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515310&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514586",
+      "id": "5515312",
       "title": "Tu3-G Turbulence-resilient underwater optical wireless links",
       "ref": "Tu3-G",
       "day": "2026-09-22",
@@ -11076,11 +11076,11 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 09: Free-space optics and optical wireless technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514586&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515312&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514586-t0@webevents",
+          "id": "ecoc2026-s5515312-t0@webevents",
           "title": "Tu3-G1 Optical wireless communications - progress and challenges",
           "start": "14:00",
           "end": "14:30",
@@ -11190,7 +11190,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514575",
+      "id": "5515301",
       "title": "Tu3-C Microwave photonics and sensing",
       "ref": "Tu3-C",
       "day": "2026-09-22",
@@ -11206,7 +11206,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514575&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515301&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -11308,7 +11308,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514589",
+      "id": "5515315",
       "title": "Tu3-H Long-haul HCF systems",
       "ref": "Tu3-H",
       "day": "2026-09-22",
@@ -11324,7 +11324,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514589&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515315&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -11454,7 +11454,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514592",
+      "id": "5515318",
       "title": "Tu3-I Quantum state transmission and manipulation",
       "ref": "Tu3-I",
       "day": "2026-09-22",
@@ -11470,7 +11470,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 11: Quantum communications, physical layer security, and optical quantum technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514592&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515318&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -11589,7 +11589,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514873",
+      "id": "5515599",
       "title": "Afternoon coffee break",
       "ref": "Afternoon",
       "day": "2026-09-22",
@@ -11605,12 +11605,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514873&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515599&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514570",
+      "id": "5515296",
       "title": "Tu4-A Access network evolution",
       "ref": "Tu4-A",
       "day": "2026-09-22",
@@ -11626,7 +11626,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514570&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515296&a=ecoc2026",
       "talkCount": 2,
       "talks": [
         {
@@ -11673,7 +11673,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514573",
+      "id": "5515299",
       "title": "Tu4-B Optical networks for AI datacenters and workloads",
       "ref": "Tu4-B",
       "day": "2026-09-22",
@@ -11689,7 +11689,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 10: Control and management of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514573&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515299&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -11752,7 +11752,7 @@ window.PROGRAMME = {
           "abstractId": "215006"
         },
         {
-          "id": "ecoc2026-s5514573-t3@webevents",
+          "id": "ecoc2026-s5515299-t3@webevents",
           "title": "Tu4-b4 optical networks for ai: the challenge and optimization for llm training and inference across datacenters",
           "start": "17:00",
           "end": "17:30",
@@ -11769,7 +11769,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514578",
+      "id": "5515304",
       "title": "Tu4-D Long-range QKD and fields trials",
       "ref": "Tu4-D",
       "day": "2026-09-22",
@@ -11785,11 +11785,11 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 11: Quantum communications, physical layer security, and optical quantum technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514578&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515304&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514578-t0@webevents",
+          "id": "ecoc2026-s5515304-t0@webevents",
           "title": "Tu4-D1 Practical quantum communications in deployed optical telecom networks",
           "start": "16:00",
           "end": "16:30",
@@ -11918,7 +11918,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514581",
+      "id": "5515307",
       "title": "Tu4-E Mode division multiplexing",
       "ref": "Tu4-E",
       "day": "2026-09-22",
@@ -11934,7 +11934,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514581&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515307&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -12012,7 +12012,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514583",
+      "id": "5515309",
       "title": "Tu4-F AI for 6G and 6G for AI",
       "ref": "Tu4-F",
       "day": "2026-09-22",
@@ -12028,12 +12028,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514583&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515309&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514587",
+      "id": "5515313",
       "title": "Tu4-G Optical sensing in telecommunications networks",
       "ref": "Tu4-G",
       "day": "2026-09-22",
@@ -12049,7 +12049,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514587&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515313&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -12165,7 +12165,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514590",
+      "id": "5515316",
       "title": "Tu4-H Impairments monitoring in optical networks",
       "ref": "Tu4-H",
       "day": "2026-09-22",
@@ -12181,7 +12181,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 06: Architecture, modelling and performance of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514590&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515316&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -12286,7 +12286,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514884",
+      "id": "5515610",
       "title": "Tu5-H European photonic integration forum (EPIF)",
       "ref": "Tu5-H",
       "day": "2026-09-22",
@@ -12302,12 +12302,12 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514884&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515610&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514763",
+      "id": "5515489",
       "title": "Tu5-C Hack your research! Tools and tricks for today’s telecommunications techies",
       "ref": "Tu5-C",
       "day": "2026-09-22",
@@ -12323,12 +12323,12 @@ window.PROGRAMME = {
       "color": "#c026d3",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514763&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515489&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514820",
+      "id": "5515546",
       "title": "Morning coffee",
       "ref": "Morning",
       "day": "2026-09-23",
@@ -12344,12 +12344,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514820&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515546&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514597",
+      "id": "5515323",
       "title": "We1-A SDM systems",
       "ref": "We1-A",
       "day": "2026-09-23",
@@ -12365,11 +12365,11 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514597&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515323&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
-          "id": "ecoc2026-s5514597-t0@webevents",
+          "id": "ecoc2026-s5515323-t0@webevents",
           "title": "We1-A1 High capacity SDM transmission",
           "start": "09:00",
           "end": "10:00",
@@ -12436,7 +12436,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514601",
+      "id": "5515327",
       "title": "We1-B Optical computing",
       "ref": "We1-B",
       "day": "2026-09-23",
@@ -12452,7 +12452,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514601&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515327&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -12563,7 +12563,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514609",
+      "id": "5515335",
       "title": "We1-D THz transmission and sensing",
       "ref": "We1-D",
       "day": "2026-09-23",
@@ -12579,7 +12579,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514609&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515335&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -12692,7 +12692,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514613",
+      "id": "5515339",
       "title": "We1-E Multicore and multimode fibres, devices and characterisation",
       "ref": "We1-E",
       "day": "2026-09-23",
@@ -12708,7 +12708,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514613&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515339&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -12811,7 +12811,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514618",
+      "id": "5515344",
       "title": "We1-F ITU-T ION-2030: Architectures and standards of optical networks for the AI era",
       "ref": "We1-F",
       "day": "2026-09-23",
@@ -12827,12 +12827,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514618&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515344&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514621",
+      "id": "5515347",
       "title": "We1-G DSP-based optical network monitoring",
       "ref": "We1-G",
       "day": "2026-09-23",
@@ -12848,7 +12848,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514621&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515347&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -12966,7 +12966,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514605",
+      "id": "5515331",
       "title": "We1-C Advanced integrated modulators and transmitters",
       "ref": "We1-C",
       "day": "2026-09-23",
@@ -12982,7 +12982,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514605&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515331&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -13109,7 +13109,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514625",
+      "id": "5515351",
       "title": "We1-H Digital signal processing & equalization for PON",
       "ref": "We1-H",
       "day": "2026-09-23",
@@ -13125,7 +13125,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514625&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515351&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -13262,7 +13262,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514629",
+      "id": "5515355",
       "title": "We1-I Quantum networks",
       "ref": "We1-I",
       "day": "2026-09-23",
@@ -13278,7 +13278,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 11: Quantum communications, physical layer security, and optical quantum technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514629&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515355&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -13394,7 +13394,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514637",
+      "id": "5515363",
       "title": "Coffee break",
       "ref": "Coffee",
       "day": "2026-09-23",
@@ -13410,12 +13410,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514637&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515363&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514598",
+      "id": "5515324",
       "title": "We2-A Advancements on optical fiber transmission",
       "ref": "We2-A",
       "day": "2026-09-23",
@@ -13431,7 +13431,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 06: Architecture, modelling and performance of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514598&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515324&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -13504,7 +13504,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514602",
+      "id": "5515328",
       "title": "We2-B SiP Based Modulators",
       "ref": "We2-B",
       "day": "2026-09-23",
@@ -13520,11 +13520,11 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514602&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515328&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
-          "id": "ecoc2026-s5514602-t0@webevents",
+          "id": "ecoc2026-s5515328-t0@webevents",
           "title": "We2-B1 Pushing terabits: 800g and 1.6t silicon photonic transmitters at scale",
           "start": "11:00",
           "end": "11:30",
@@ -13645,7 +13645,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514610",
+      "id": "5515336",
       "title": "We2-D Ultra-wideband systems",
       "ref": "We2-D",
       "day": "2026-09-23",
@@ -13661,7 +13661,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514610&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515336&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -13824,7 +13824,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514614",
+      "id": "5515340",
       "title": "We2-E Advanced distributed fiber sensing",
       "ref": "We2-E",
       "day": "2026-09-23",
@@ -13840,7 +13840,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514614&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515340&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -13956,7 +13956,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514617",
+      "id": "5515343",
       "title": "We2-F ITU-T ION-2030: Architectures and standards of optical networks for the AI era",
       "ref": "We2-F",
       "day": "2026-09-23",
@@ -13972,12 +13972,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514617&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515343&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514622",
+      "id": "5515348",
       "title": "We2-G Optical processing",
       "ref": "We2-G",
       "day": "2026-09-23",
@@ -13993,7 +13993,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514622&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515348&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -14119,7 +14119,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514606",
+      "id": "5515332",
       "title": "We2-C LLM-driven control and automation in optical networks",
       "ref": "We2-C",
       "day": "2026-09-23",
@@ -14135,7 +14135,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 10: Control and management of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514606&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515332&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -14248,7 +14248,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514626",
+      "id": "5515352",
       "title": "We2-H SDM transmission",
       "ref": "We2-H",
       "day": "2026-09-23",
@@ -14264,7 +14264,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514626&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515352&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -14356,7 +14356,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514630",
+      "id": "5515356",
       "title": "We2-I Advanced signal processing and real-time implementations",
       "ref": "We2-I",
       "day": "2026-09-23",
@@ -14372,7 +14372,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514630&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515356&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -14519,7 +14519,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514764",
+      "id": "5515490",
       "title": "WeL-E Women in photonics: \"WIP-BEAM: Women in Photonics-Bridging Excellence and Advancement through Mentorship\"",
       "ref": "WeL-E",
       "day": "2026-09-23",
@@ -14535,12 +14535,12 @@ window.PROGRAMME = {
       "color": "#c026d3",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514764&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515490&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514641",
+      "id": "5515367",
       "title": "Lunch",
       "ref": "",
       "day": "2026-09-23",
@@ -14556,12 +14556,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514641&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515367&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514599",
+      "id": "5515325",
       "title": "We3-A Switching architectures in optical networks",
       "ref": "We3-A",
       "day": "2026-09-23",
@@ -14577,7 +14577,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 06: Architecture, modelling and performance of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514599&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515325&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -14687,7 +14687,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514603",
+      "id": "5515329",
       "title": "We3-B Integration of magneto-optics",
       "ref": "We3-B",
       "day": "2026-09-23",
@@ -14703,7 +14703,7 @@ window.PROGRAMME = {
       "color": "#2563eb",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514603&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515329&a=ecoc2026",
       "talkCount": 1,
       "talks": [
         {
@@ -14726,7 +14726,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514611",
+      "id": "5515337",
       "title": "We3-D Signal processing for high-speed IMDD",
       "ref": "We3-D",
       "day": "2026-09-23",
@@ -14742,7 +14742,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514611&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515337&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -14869,7 +14869,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514615",
+      "id": "5515341",
       "title": "We3-E Innovations in high capacity, short reach links",
       "ref": "We3-E",
       "day": "2026-09-23",
@@ -14885,7 +14885,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514615&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515341&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -14974,7 +14974,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514619",
+      "id": "5515345",
       "title": "We3-F Integrated optical sensing and communications systems",
       "ref": "We3-F",
       "day": "2026-09-23",
@@ -14990,7 +14990,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 09: Free-space optics and optical wireless technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514619&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515345&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -15133,7 +15133,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514623",
+      "id": "5515349",
       "title": "We3-G Subsea fiber sensing and advanced interrogation techniques",
       "ref": "We3-G",
       "day": "2026-09-23",
@@ -15149,7 +15149,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514623&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515349&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -15308,7 +15308,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514607",
+      "id": "5515333",
       "title": "We3-C On-chip light emission and detection",
       "ref": "We3-C",
       "day": "2026-09-23",
@@ -15324,11 +15324,11 @@ window.PROGRAMME = {
       "color": "#0891b2",
       "track": "SC 12: CLEO® Special Session on Emerging Trends in Optics and Photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514607&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515333&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
-          "id": "ecoc2026-s5514607-t0@webevents",
+          "id": "ecoc2026-s5515333-t0@webevents",
           "title": "We3-C1 Coherent and silicon photonics: a marriage for the long and short haul",
           "start": "14:00",
           "end": "14:30",
@@ -15390,7 +15390,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514627",
+      "id": "5515353",
       "title": "We3-H HCF systems",
       "ref": "We3-H",
       "day": "2026-09-23",
@@ -15406,7 +15406,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514627&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515353&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -15573,7 +15573,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514631",
+      "id": "5515357",
       "title": "We3-I Hollow-core fibre characterisation and standardisation",
       "ref": "We3-I",
       "day": "2026-09-23",
@@ -15589,11 +15589,11 @@ window.PROGRAMME = {
       "color": "#0891b2",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514631&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515357&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
-          "id": "ecoc2026-s5514631-t0@webevents",
+          "id": "ecoc2026-s5515357-t0@webevents",
           "title": "We3-I: Rayleigh speckle backscatter measurements of hollow core fiber",
           "start": "14:00",
           "end": "14:30",
@@ -15664,7 +15664,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514895",
+      "id": "5515621",
       "title": "Afternoon coffee break",
       "ref": "Afternoon",
       "day": "2026-09-23",
@@ -15680,12 +15680,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514895&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515621&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514567",
+      "id": "5515293",
       "title": "We4-P Poster",
       "ref": "We4-P",
       "day": "2026-09-23",
@@ -15701,7 +15701,7 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514567&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515293&a=ecoc2026",
       "talkCount": 132,
       "talks": [
         {
@@ -18715,7 +18715,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514600",
+      "id": "5515326",
       "title": "We5-A Network operation and fault management in optical networks",
       "ref": "We5-A",
       "day": "2026-09-23",
@@ -18731,7 +18731,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 10: Control and management of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514600&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515326&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -18804,7 +18804,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514604",
+      "id": "5515330",
       "title": "We5-B Optical transmitters and transceivers",
       "ref": "We5-B",
       "day": "2026-09-23",
@@ -18820,7 +18820,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514604&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515330&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -18924,7 +18924,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514612",
+      "id": "5515338",
       "title": "We5-D Optical wireless technologies for next-generation networks systems",
       "ref": "We5-D",
       "day": "2026-09-23",
@@ -18940,7 +18940,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 09: Free-space optics and optical wireless technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514612&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515338&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -19022,7 +19022,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514616",
+      "id": "5515342",
       "title": "We5-E PON sensing, monitoring & energy efficiency",
       "ref": "We5-E",
       "day": "2026-09-23",
@@ -19038,7 +19038,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514616&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515342&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -19136,7 +19136,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514620",
+      "id": "5515346",
       "title": "We5-F Quantum devices",
       "ref": "We5-F",
       "day": "2026-09-23",
@@ -19152,7 +19152,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 11: Quantum communications, physical layer security, and optical quantum technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514620&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515346&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -19289,7 +19289,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514624",
+      "id": "5515350",
       "title": "We5-G Advance phase and timing recovery",
       "ref": "We5-G",
       "day": "2026-09-23",
@@ -19305,7 +19305,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514624&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515350&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -19416,7 +19416,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514608",
+      "id": "5515334",
       "title": "We5-C Integrated sensing and communication",
       "ref": "We5-C",
       "day": "2026-09-23",
@@ -19432,7 +19432,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514608&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515334&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -19556,7 +19556,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514628",
+      "id": "5515354",
       "title": "We5-H Coupled core MCF systems",
       "ref": "We5-H",
       "day": "2026-09-23",
@@ -19572,7 +19572,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514628&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515354&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -19691,7 +19691,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514632",
+      "id": "5515358",
       "title": "We5-I VCSELs",
       "ref": "We5-I",
       "day": "2026-09-23",
@@ -19707,7 +19707,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514632&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515358&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -19828,7 +19828,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514596",
+      "id": "5515322",
       "title": "Conference dinner at Finca Nadales",
       "ref": "Conference",
       "day": "2026-09-23",
@@ -19844,12 +19844,12 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514596&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515322&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514805",
+      "id": "5515531",
       "title": "Morning coffee",
       "ref": "Morning",
       "day": "2026-09-24",
@@ -19865,12 +19865,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514805&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515531&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514552",
+      "id": "5515278",
       "title": "Th1-A Novel modulators",
       "ref": "Th1-A",
       "day": "2026-09-24",
@@ -19886,7 +19886,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514552&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515278&a=ecoc2026",
       "talkCount": 2,
       "talks": [
         {
@@ -19927,7 +19927,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514553",
+      "id": "5515279",
       "title": "Th1-B Turbulence mitigation in free-space optical communications",
       "ref": "Th1-B",
       "day": "2026-09-24",
@@ -19943,7 +19943,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 09: Free-space optics and optical wireless technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514553&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515279&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -20010,7 +20010,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514557",
+      "id": "5515283",
       "title": "Th1-D Advanced photonic integration",
       "ref": "Th1-D",
       "day": "2026-09-24",
@@ -20026,7 +20026,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514557&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515283&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -20151,7 +20151,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514559",
+      "id": "5515285",
       "title": "Th1-E Sub-THz transmission and photonic sensing techniques",
       "ref": "Th1-E",
       "day": "2026-09-24",
@@ -20167,7 +20167,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514559&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515285&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -20289,7 +20289,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514561",
+      "id": "5515287",
       "title": "Th1-F Programmable photonics: architectures, control and applications",
       "ref": "Th1-F",
       "day": "2026-09-24",
@@ -20305,12 +20305,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514561&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515287&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514563",
+      "id": "5515289",
       "title": "Th1-G Ai-training in optical networks",
       "ref": "Th1-G",
       "day": "2026-09-24",
@@ -20326,7 +20326,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 06: Architecture, modelling and performance of optical networks",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514563&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515289&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -20433,7 +20433,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514555",
+      "id": "5515281",
       "title": "Th1-C Photodiodes",
       "ref": "Th1-C",
       "day": "2026-09-24",
@@ -20449,7 +20449,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 02: Discrete photonic devices and technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514555&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515281&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -20615,7 +20615,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514565",
+      "id": "5515291",
       "title": "Th1-H Coherent systems",
       "ref": "Th1-H",
       "day": "2026-09-24",
@@ -20631,7 +20631,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 05: Optical transmission systems",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514565&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515291&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -20738,7 +20738,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514638",
+      "id": "5515364",
       "title": "Coffee break",
       "ref": "Coffee",
       "day": "2026-09-24",
@@ -20754,12 +20754,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514638&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515364&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514551",
+      "id": "5515277",
       "title": "Th2-A Security of optical communication systems",
       "ref": "Th2-A",
       "day": "2026-09-24",
@@ -20775,7 +20775,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "SC 11: Quantum communications, physical layer security, and optical quantum technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514551&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515277&a=ecoc2026",
       "talkCount": 3,
       "talks": [
         {
@@ -20841,7 +20841,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514554",
+      "id": "5515280",
       "title": "Th2-B SoP sensing and aplications",
       "ref": "Th2-B",
       "day": "2026-09-24",
@@ -20857,7 +20857,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 08: Sensing and microwave photonics",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514554&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515280&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -20969,7 +20969,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514566",
+      "id": "5515292",
       "title": "Th2-D Advances in coherent PON",
       "ref": "Th2-D",
       "day": "2026-09-24",
@@ -20985,7 +20985,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 07: Optical networks for access, mobile X-haul, in-building, and intra-datacentre interconnects",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514566&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515292&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -21103,7 +21103,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514560",
+      "id": "5515286",
       "title": "Th2-E Receivers and photodetectors",
       "ref": "Th2-E",
       "day": "2026-09-24",
@@ -21119,7 +21119,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 03: Photonic integrated circuits, assemblies and packaging",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514560&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515286&a=ecoc2026",
       "talkCount": 5,
       "talks": [
         {
@@ -21241,7 +21241,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514562",
+      "id": "5515288",
       "title": "Th2-F Programmable photonics: architectures, control and applications",
       "ref": "Th2-F",
       "day": "2026-09-24",
@@ -21257,12 +21257,12 @@ window.PROGRAMME = {
       "color": "#9333ea",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514562&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515288&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514564",
+      "id": "5515290",
       "title": "Th2-G Enabling fibre based devices and handling",
       "ref": "Th2-G",
       "day": "2026-09-24",
@@ -21278,7 +21278,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 01: Novel fibres, fibre devices and amplifiers",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514564&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515290&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -21369,7 +21369,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514556",
+      "id": "5515282",
       "title": "Th2-C End-to-end optical communications systems for space: demonstration and validation",
       "ref": "Th2-C",
       "day": "2026-09-24",
@@ -21385,7 +21385,7 @@ window.PROGRAMME = {
       "color": "#0d9488",
       "track": "SC 09: Free-space optics and optical wireless technologies",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514556&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515282&a=ecoc2026",
       "talkCount": 4,
       "talks": [
         {
@@ -21489,7 +21489,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514558",
+      "id": "5515284",
       "title": "Th2-H Faster-than-nyquist, equalization and coding",
       "ref": "Th2-H",
       "day": "2026-09-24",
@@ -21505,7 +21505,7 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "SC 04: Signal processing for optical communication and sensing",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514558&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515284&a=ecoc2026",
       "talkCount": 6,
       "talks": [
         {
@@ -21669,7 +21669,7 @@ window.PROGRAMME = {
       ]
     },
     {
-      "id": "5514642",
+      "id": "5515368",
       "title": "Lunch",
       "ref": "",
       "day": "2026-09-24",
@@ -21685,12 +21685,12 @@ window.PROGRAMME = {
       "color": "#94a3b8",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514642&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515368&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514661",
+      "id": "5515387",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21706,12 +21706,12 @@ window.PROGRAMME = {
       "color": "#059669",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514661&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515387&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514662",
+      "id": "5515388",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21727,12 +21727,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514662&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515388&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514663",
+      "id": "5515389",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21748,12 +21748,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514663&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515389&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514664",
+      "id": "5515390",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21769,12 +21769,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514664&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515390&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514665",
+      "id": "5515391",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21790,12 +21790,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514665&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515391&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514666",
+      "id": "5515392",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21811,12 +21811,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514666&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515392&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514667",
+      "id": "5515393",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21832,12 +21832,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514667&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515393&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514668",
+      "id": "5515394",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21853,12 +21853,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514668&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515394&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514669",
+      "id": "5515395",
       "title": "Postdeadline papers",
       "ref": "Postdeadline",
       "day": "2026-09-24",
@@ -21874,12 +21874,12 @@ window.PROGRAMME = {
       "color": "#ea580c",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514669&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515395&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     },
     {
-      "id": "5514549",
+      "id": "5515275",
       "title": "Closing",
       "ref": "",
       "day": "2026-09-24",
@@ -21895,7 +21895,7 @@ window.PROGRAMME = {
       "color": "#475569",
       "track": "",
       "chairs": [],
-      "url": "https://ecoc2026.org/site/programme/?sessionid=5514549&a=ecoc2026",
+      "url": "https://ecoc2026.org/site/programme/?sessionid=5515275&a=ecoc2026",
       "talkCount": 0,
       "talks": []
     }
