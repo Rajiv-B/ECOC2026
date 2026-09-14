@@ -105,6 +105,20 @@
     badge.classList.toggle("hidden", schedule.size === 0);
   }
 
+  function isMobile() {
+    return window.matchMedia("(max-width: 768px)").matches;
+  }
+
+  function updateFiltersButton() {
+    const btn = $("#btn-filters");
+    if (!btn) return;
+    const active = state.type || state.track || state.room;
+    const open = $("#filters-panel").classList.contains("open");
+    btn.textContent = active ? "Filters ●" : "Filters";
+    btn.classList.toggle("active", active || open);
+    btn.setAttribute("aria-expanded", open);
+  }
+
   function markSelected() {
     document.querySelectorAll(".session-block, .list-item").forEach((node) => {
       node.classList.toggle("selected", node.dataset.id === state.selectedId);
@@ -443,17 +457,42 @@
     buildDayTabs();
     fillFilters();
     updateScheduleBadge();
+
+    if (isMobile()) {
+      state.view = "list";
+      $("#view-list").classList.add("active");
+      $("#view-grid").classList.remove("active");
+    }
+
     render();
+    updateFiltersButton();
 
     $("#search").addEventListener("input", (e) => { state.search = e.target.value; render(); });
-    $("#filter-type").addEventListener("change", (e) => { state.type = e.target.value; render(); });
-    $("#filter-track").addEventListener("change", (e) => { state.track = e.target.value; render(); });
-    $("#filter-room").addEventListener("change", (e) => { state.room = e.target.value; render(); });
+    $("#filter-type").addEventListener("change", (e) => {
+      state.type = e.target.value;
+      render();
+      updateFiltersButton();
+    });
+    $("#filter-track").addEventListener("change", (e) => {
+      state.track = e.target.value;
+      render();
+      updateFiltersButton();
+    });
+    $("#filter-room").addEventListener("change", (e) => {
+      state.room = e.target.value;
+      render();
+      updateFiltersButton();
+    });
     $("#btn-clear").addEventListener("click", () => {
       state.search = state.type = state.track = state.room = "";
       $("#search").value = "";
       $("#filter-type").value = $("#filter-track").value = $("#filter-room").value = "";
       render();
+      updateFiltersButton();
+    });
+    $("#btn-filters").addEventListener("click", () => {
+      $("#filters-panel").classList.toggle("open");
+      updateFiltersButton();
     });
 
     $("#view-grid").addEventListener("click", () => {
